@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Entries
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
@@ -25,7 +25,7 @@ entry
 
 object
 
-[Entry](/help-and-docs/apis/management-js/model/entry)
+[Entry](https://www.contensis.com/help-and-docs/apis/management-js/model/entry)
 
 The entry object.
 
@@ -33,7 +33,7 @@ event
 
 string
 
-The event type, as described at [Workflow](/help-and-docs/apis/management-js/key-concepts/workflow)
+The event type, as described at [Workflow](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/workflow)
 
 data?
 
@@ -43,7 +43,7 @@ The optional event data.
 
 ## Returns
 
-A Promise that will resolve with an [Entry](/help-and-docs/apis/management-js/model/entry) object.
+A Promise that will resolve with an [Entry](https://www.contensis.com/help-and-docs/apis/management-js/model/entry) object.
 
 ## Example
 
@@ -77,7 +77,7 @@ entry
 
 object
 
-[Entry](/help-and-docs/apis/management-js/model/entry)
+[Entry](https://www.contensis.com/help-and-docs/apis/management-js/model/entry)
 
 The entry object.
 
@@ -85,13 +85,13 @@ workflowTrigger
 
 object
 
-[WorkflowTrigger](/help-and-docs/apis/management-js/model/workflow-trigger)
+[WorkflowTrigger](https://www.contensis.com/help-and-docs/apis/management-js/model/workflow-trigger)
 
 The workflow trigger object type.
 
 ## Returns
 
-A Promise that will resolve with an [Entry](/help-and-docs/apis/management-js/model/entry) object.
+A Promise that will resolve with an [Entry](https://www.contensis.com/help-and-docs/apis/management-js/model/entry) object.
 
 ## Example
 

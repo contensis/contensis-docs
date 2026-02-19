@@ -1,8 +1,8 @@
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 20 July 2021
 
-The data format property is used as an extension of a [data type](/help-and-docs/apis/management-http/key-concepts/data-types "Link to Data types") to describe the structure and intent of the data. For example, a *location* has a data type of *object*, and a data format of *location*. Another example is a HTML block, which has a data type of *string* and a data format of *html*.
+The data format property is used as an extension of a [data type](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/data-types "Link to Data types") to describe the structure and intent of the data. For example, a *location* has a data type of *object*, and a data format of *location*. Another example is a HTML block, which has a data type of *string* and a data format of *html*.
 
 The data format is a string value and is designed to allow custom types to be added.
 
@@ -18,7 +18,7 @@ Description
 
 Applicable Validations
 
-[entry](/help-and-docs/apis/management-http/content/entries "Link to Entry")
+[entry](https://www.contensis.com/help-and-docs/apis/management-http/content/entries "Link to Entry")
 
 object
 
@@ -36,7 +36,7 @@ An asset format that represents a file resource.
 required  
 allowedContentTypes
 
-[location](/help-and-docs/apis/management-http/content/fields/location "Link to Location")
+[location](https://www.contensis.com/help-and-docs/apis/management-http/content/fields/location "Link to Location")
 
 object
 
@@ -44,7 +44,7 @@ Represents a point on the surface of the Earth.
 
 required
 
-[quote](/help-and-docs/apis/management-http/content/fields/quote "Link to Quote")
+[quote](https://www.contensis.com/help-and-docs/apis/management-http/content/fields/quote "Link to Quote")
 
 object
 
@@ -53,7 +53,7 @@ A quote with text and a source.
 required  
 requiredFields
 
-[dateRange](/help-and-docs/apis/management-http/content/fields/date-range "Link to Date range")
+[dateRange](https://www.contensis.com/help-and-docs/apis/management-http/content/fields/date-range "Link to Date range")
 
 object
 
@@ -64,7 +64,7 @@ min
 max  
 pastDateTime
 
-[image](/help-and-docs/apis/management-http/content/fields/image "Link to Image")
+[image](https://www.contensis.com/help-and-docs/apis/management-http/content/fields/image "Link to Image")
 
 object
 
@@ -77,7 +77,7 @@ field
 
 objectArray
 
-Represents a [composed](/help-and-docs/apis/management-http/content/fields/composed-field "Link to Composed") type, defined as an objectArray data type.
+Represents a [composed](https://www.contensis.com/help-and-docs/apis/management-http/content/fields/composed-field "Link to Composed") type, defined as an objectArray data type.
 
 required  
 allowedFieldTypes
@@ -86,7 +86,7 @@ component.\*
 
 object
 
-Represents a [component](/help-and-docs/apis/management-http/content/components "Link to Component") type. The asterisk represents the component id.
+Represents a [component](https://www.contensis.com/help-and-docs/apis/management-http/content/components "Link to Component") type. The asterisk represents the component id.
 
 required  
 allowedFieldTypes

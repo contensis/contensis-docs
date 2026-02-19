@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Modelling content](/help-and-docs/guides/modelling-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Modelling content](https://www.contensis.com/help-and-docs/guides/modelling-content)
 4.  Validation
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 11 March 2025
 
@@ -21,22 +21,22 @@ Validation
 
 Supported fields
 
-[Required](/help-and-docs/user-guides/content-modelling/validation/make-a-field-required)
+[Required](https://www.contensis.com/help-and-docs/user-guides/content-modelling/validation/make-a-field-required)
 
 Text, Markup, quote, number, location, list, taxonomy, composer, date/time, asset, entry, image
 
-[Number of characters](/help-and-docs/user-guides/content-modelling/validation/set-a-character-count-on-a-field)
+[Number of characters](https://www.contensis.com/help-and-docs/user-guides/content-modelling/validation/set-a-character-count-on-a-field)
 
 Text
 
-[Matches pattern](/help-and-docs/user-guides/content-modelling/validation/use-pattern-matching-to-validate-fields)
+[Matches pattern](https://www.contensis.com/help-and-docs/user-guides/content-modelling/validation/use-pattern-matching-to-validate-fields)
 
 Text
 
-[Number](/help-and-docs/user-guides/content-modelling/validation/validate-a-number-field)
+[Number](https://www.contensis.com/help-and-docs/user-guides/content-modelling/validation/validate-a-number-field)
 
 Number, decimal
 
-[Item count](/help-and-docs/user-guides/content-modelling/validation/limit-a-field-to-a-specific-number-of-items-using-item-count)
+[Item count](https://www.contensis.com/help-and-docs/user-guides/content-modelling/validation/limit-a-field-to-a-specific-number-of-items-using-item-count)
 
 *Repeatable fields –* text, Markup, quote, number, location, date/time, components *Arrays* – list, taxonomy, asset, entry, image

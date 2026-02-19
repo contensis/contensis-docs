@@ -66,7 +66,7 @@ Update the ‘*groupMembershipClaims*’ value to ‘*SecurityGroup*’.
 
 Click ‘*Save*’.
 
-![Edit Azure AD manifest](/image-library/resources-images/user-guides-images/azuread-manifest.x8a5a2536.png?q=80&f=webp)
+![Edit Azure AD manifest](https://www.contensis.com/image-library/resources-images/user-guides-images/azuread-manifest.x8a5a2536.png?q=80&f=webp)
 
 Edit Azure AD manifest
 
@@ -193,4 +193,4 @@ You will now need to copy the key as directed before navigating away from this s
 
 Copying the key for a client secret
 
-You have now completed the registration of Contensis with Azure and are now ready to [configure Contensis to use Azure AD](/help-and-docs/user-guides/user-management/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad).
+You have now completed the registration of Contensis with Azure and are now ready to [configure Contensis to use Azure AD](https://www.contensis.com/help-and-docs/user-guides/user-management/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad).

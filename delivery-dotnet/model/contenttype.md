@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 17 October 2022
 
-A content type resource can be retrieved from the Delivery API to understand the schema of an [Entry](/help-and-docs/apis/delivery-dotnet/model/entry "entry"). Entries are constructed and validated using the information defined in the fields collection.
+A content type resource can be retrieved from the Delivery API to understand the schema of an [Entry](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry "entry"). Entries are constructed and validated using the information defined in the fields collection.
 
 Name
 
@@ -67,7 +67,7 @@ DefaultLanguage
 
 string
 
-The default [language code](/help-and-docs/apis/delivery-dotnet/key-concepts/localization) for the entries based on the content type
+The default [language code](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/key-concepts/localization) for the entries based on the content type
 
 SupportedLanguages
 
@@ -95,7 +95,7 @@ The URL where an example of an entry based on the content type can be viewed
 
 Version
 
-[VersionInfo](/help-and-docs/apis/delivery-dotnet/model/versioninfo)
+[VersionInfo](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/versioninfo)
 
 Version information about the content type
 
@@ -135,7 +135,7 @@ The description for the field's purpose
 
 DataType
 
-[DataType](/help-and-docs/apis/delivery-dotnet/key-concepts/data-types)
+[DataType](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/key-concepts/data-types)
 
 The field data type
 
@@ -143,7 +143,7 @@ DataFormat
 
 string
 
-The field [DataFormat](/help-and-docs/apis/delivery-dotnet/key-concepts/data-format)
+The field [DataFormat](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/key-concepts/data-format)
 
 Default
 
@@ -153,4 +153,4 @@ The default value for the field if no value is provided by an editor
 
 ## LocalizedValue
 
-A localized value is an object that has values that are keyed by [language codes](/help-and-docs/apis/delivery-dotnet/key-concepts/localization) which allows multilingual variations of a specific property.
+A localized value is an object that has values that are keyed by [language codes](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/key-concepts/localization) which allows multilingual variations of a specific property.

@@ -1,15 +1,15 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Nodes
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 09 December 2024
 
 Moves a node.
 
-This is a special case of [updating a node.](/help-and-docs/apis/management-js/nodes/update-a-node) By changing the parent id of a node and updating the node and all of its children will be moved so that they are now descendants of the parent node, with the same hierarchical structure.
+This is a special case of [updating a node.](https://www.contensis.com/help-and-docs/apis/management-js/nodes/update-a-node) By changing the parent id of a node and updating the node and all of its children will be moved so that they are now descendants of the parent node, with the same hierarchical structure.
 
 ***update(node: Node): Promise<Node>***
 

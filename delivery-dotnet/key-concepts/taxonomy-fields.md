@@ -1,15 +1,15 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Fields defined as a taxonomy field (DataType = String, DataFormat = taxonomy) are automatically resolved in the Delivery API and returned as [TaxonomyNode](/help-and-docs/apis/delivery-dotnet/model/taxonomynode) instances. A TaxonomyNode has a name, a path and child nodes.
+Fields defined as a taxonomy field (DataType = String, DataFormat = taxonomy) are automatically resolved in the Delivery API and returned as [TaxonomyNode](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/taxonomynode) instances. A TaxonomyNode has a name, a path and child nodes.
 
-The following example shows how a taxonomy node can be retrieved from an [Entry](/help-and-docs/apis/delivery-dotnet/model/entry).
+The following example shows how a taxonomy node can be retrieved from an [Entry](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry).
 
 C#
 

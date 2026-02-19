@@ -1,4 +1,4 @@
-Search for entries using a query tree structure, along with order and paging specifiers, allows a search to be performed against indexed documents held in ElasticSearch. The query API allows any required sub-query structure to be defined and a comprehensive selection of [Operators](/help-and-docs/apis/delivery-js/entries/search/query-operators) enable individual field level evaluation.
+Search for entries using a query tree structure, along with order and paging specifiers, allows a search to be performed against indexed documents held in ElasticSearch. The query API allows any required sub-query structure to be defined and a comprehensive selection of [Operators](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/query-operators) enable individual field level evaluation.
 
 -   [Query](#query)
 -   [Sub-queries](#sub-queries)
@@ -53,7 +53,7 @@ if (films.items.length > 0) {
 
 ## Sub-queries
 
-A sub-query is a query within another query that is used as a condition to further restrict the results. Effectively they are defined by an explicit nesting of [logical operators](/help-and-docs/apis/delivery-js/entries/search/query-operators).
+A sub-query is a query within another query that is used as a condition to further restrict the results. Effectively they are defined by an explicit nesting of [logical operators](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/query-operators).
 
 This example demonstrates a simple search with a sub-query.
 
@@ -185,9 +185,9 @@ const query = new Query(
 
 ### System fields
 
-System fields such as id, contentTypeId, projectId, versionNo etc. are under the [sys](/help-and-docs/apis/delivery-js/model/entry) object and can be accessed using a dot notation, e.g. sys.id, sys.contentTypeId, sys.projectId, sys.version.versionNo.
+System fields such as id, contentTypeId, projectId, versionNo etc. are under the [sys](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry) object and can be accessed using a dot notation, e.g. sys.id, sys.contentTypeId, sys.projectId, sys.version.versionNo.
 
-The *entryTitle* field is a dynamic value, determined by the *EntryTitleField* value in the [content type](/help-and-docs/apis/delivery-js/model/content-type), the same applies to *entryDescription* and *entryThumbnail* fields, and will contain the value from the content type field that has been set to represent these common entry fields.
+The *entryTitle* field is a dynamic value, determined by the *EntryTitleField* value in the [content type](https://www.contensis.com/help-and-docs/apis/delivery-js/model/content-type), the same applies to *entryDescription* and *entryThumbnail* fields, and will contain the value from the content type field that has been set to represent these common entry fields.
 
 ### Data fields
 
@@ -237,7 +237,7 @@ query.fields = ['entryTitle', 'description'];
 
 ## Resolving field content
 
-Entry fields containing links to other content can have the field content automatically resolved in the search results by adding [linkDepth](/help-and-docs/apis/delivery-js/entries/resolve-entry-links) parameter to our search set to the number of levels that all child fields containing linked content will be resolved to
+Entry fields containing links to other content can have the field content automatically resolved in the search results by adding [linkDepth](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/resolve-entry-links) parameter to our search set to the number of levels that all child fields containing linked content will be resolved to
 
 Keeping check on payload sizes when using linkDepth of more than 0, we can also set `fieldLinkDepths` in the query, specifying which entry link field(s) require link depth resolving and to what depth.
 
@@ -251,9 +251,9 @@ query.fieldLinkDepths = { 'linkField': 2, 'otherField': 1 };
 
 ## Aggregate field content
 
-Provide insights into data distribution and prompt for further search refinements. [Aggregations](/help-and-docs/apis/delivery-http/search-basics/aggregations) allow you to group data by specific fields and return a count of entries matching each unique value from all pages in the result-set.
+Provide insights into data distribution and prompt for further search refinements. [Aggregations](https://www.contensis.com/help-and-docs/apis/delivery-http/search-basics/aggregations) allow you to group data by specific fields and return a count of entries matching each unique value from all pages in the result-set.
 
-Add an `aggregations` object in the shape of [`QueryAggregations`](/help-and-docs/apis/delivery-js/model/query-aggregations) to the query, and define one or more aggregations that contain the field to count, whether we will consider unpopulated fields, and limit the amount of aggregated values to return.
+Add an `aggregations` object in the shape of [`QueryAggregations`](https://www.contensis.com/help-and-docs/apis/delivery-js/model/query-aggregations) to the query, and define one or more aggregations that contain the field to count, whether we will consider unpopulated fields, and limit the amount of aggregated values to return.
 
 Aggregations that reference array fields *do not* require square brackets \[\] to be specified in the field
 

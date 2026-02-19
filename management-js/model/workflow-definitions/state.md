@@ -18,7 +18,7 @@ name
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The friendly name given to the state.
 
@@ -34,7 +34,7 @@ events
 
 object\[\]
 
-[Event](/help-and-docs/apis/management-js/model/workflow-definitions/event)
+[Event](https://www.contensis.com/help-and-docs/apis/management-js/model/workflow-definitions/event)
 
 A collection of events that can occur to an entry in this state.
 
@@ -42,7 +42,7 @@ color
 
 string
 
-[Color](/help-and-docs/apis/management-js/model/colors)
+[Color](https://www.contensis.com/help-and-docs/apis/management-js/model/colors)
 
 The color to be displayed in the Contensis UI for the state.
 

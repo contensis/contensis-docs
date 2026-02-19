@@ -1,15 +1,15 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Deploying websites and apps](/help-and-docs/guides/deploying-websites-and-apps)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Deploying websites and apps](https://www.contensis.com/help-and-docs/guides/deploying-websites-and-apps)
 4.  Site View
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 28 May 2024
 
 If you're responsible for managing content in multiple languages, you can easily switch the context of Site View between the different languages you manage.
 
-To manage and edit content in Site View, you'll need to be part of a role with Site View permissions and have edit permission for the entries in multiple languages you want to update. Site View and edit permissions on entries can be defined in a [role](/help-and-docs/user-guides/governance/roles-and-permissions/roles-and-permissions-overview).
+To manage and edit content in Site View, you'll need to be part of a role with Site View permissions and have edit permission for the entries in multiple languages you want to update. Site View and edit permissions on entries can be defined in a [role](https://www.contensis.com/help-and-docs/user-guides/governance/roles-and-permissions/roles-and-permissions-overview).
 
 1.  Select **Site View** from the sidebar to manage your site structure and content. *Site View* will open in the default project language.
 2.  With *Site View* open, use the tree to navigate to the area in your site that you'd like to update.
@@ -19,7 +19,7 @@ To manage and edit content in Site View, you'll need to be part of a role with S
 
 ## Language switching
 
-The language switcher will display all languages assigned to the project. Some content may not be available in all languages due to [content type language](/help-and-docs/user-guides/content-modelling/content-types/enable-or-disable-languages-for-a-content-type) assignments. In the event you switch to a language where content isn't available, a message will be displayed to explain why.
+The language switcher will display all languages assigned to the project. Some content may not be available in all languages due to [content type language](https://www.contensis.com/help-and-docs/user-guides/content-modelling/content-types/enable-or-disable-languages-for-a-content-type) assignments. In the event you switch to a language where content isn't available, a message will be displayed to explain why.
 
 ### Content not available for translation
 

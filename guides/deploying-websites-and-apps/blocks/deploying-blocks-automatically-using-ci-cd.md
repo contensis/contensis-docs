@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Deploying websites and apps](/help-and-docs/guides/deploying-websites-and-apps)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Deploying websites and apps](https://www.contensis.com/help-and-docs/guides/deploying-websites-and-apps)
 4.  Blocks
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 22 January 2026
 
@@ -140,7 +140,7 @@ Use `push block --help` or check the [Contensis CLI documentation](https://githu
 
 ## The `manifest.json` file
 
-Check out our [advanced guide](/help-and-docs/guides/deploying-websites-and-apps/blocks/blocks-advanced-configuration) for a deep dive into the manifest.json file. Learn how to include it in your Docker image, configure ports, manage routing behaviour, and handle static assets.
+Check out our [advanced guide](https://www.contensis.com/help-and-docs/guides/deploying-websites-and-apps/blocks/blocks-advanced-configuration) for a deep dive into the manifest.json file. Learn how to include it in your Docker image, configure ports, manage routing behaviour, and handle static assets.
 
 ---
 
@@ -172,9 +172,9 @@ https://www.website.com (with x-block-config cookie set)
 
 If you are having issues with a Block:
 
--   Check the necessary [renderers](/help-and-docs/guides/deploying-websites-and-apps/renderers/renderers-overview) are set up in Site View or Content Types.
+-   Check the necessary [renderers](https://www.contensis.com/help-and-docs/guides/deploying-websites-and-apps/renderers/renderers-overview) are set up in Site View or Content Types.
 -   Ensure a Site View node exists for each static path.
--   [Check the console logs](/help-and-docs/guides/deploying-websites-and-apps/blocks/view-the-console-logs-for-a-block) for the Block version that's failing. Make sure you check all three data centres.
+-   [Check the console logs](https://www.contensis.com/help-and-docs/guides/deploying-websites-and-apps/blocks/view-the-console-logs-for-a-block) for the Block version that's failing. Make sure you check all three data centres.
 -   Pull and run the Docker image locally and debug any errors.
 -   Getting 500s? Make sure:
     

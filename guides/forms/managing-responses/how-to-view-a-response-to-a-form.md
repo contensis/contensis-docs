@@ -11,4 +11,4 @@ To view a form response follow the steps below.
 
 ## Navigate form responses
 
-After you've opened a response, use the arrow buttons in the page header to navigate between other responses. Click the three dots to open a menu where you can [delete](/help-and-docs/guides/forms/managing-responses/delete-a-form-response) or [assign](/help-and-docs/guides/forms/managing-responses/assign-a-response-to-a-contensis-user) the response to a team member.
+After you've opened a response, use the arrow buttons in the page header to navigate between other responses. Click the three dots to open a menu where you can [delete](https://www.contensis.com/help-and-docs/guides/forms/managing-responses/delete-a-form-response) or [assign](https://www.contensis.com/help-and-docs/guides/forms/managing-responses/assign-a-response-to-a-contensis-user) the response to a team member.

@@ -1,15 +1,15 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Modelling content](/help-and-docs/guides/modelling-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Modelling content](https://www.contensis.com/help-and-docs/guides/modelling-content)
 4.  Field editors
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -23,7 +23,7 @@ The taxonomy editor supports single and multiple selections. You can also specif
 
 ![](/image-library/resources-images/field-editor-taxonomy.x8e64486c.png?q=80&f=webp)
 
-![An example of the taxonomy dropdown field.](/image-library/resources-images/user-guides-images/taxonomy-dropdown.xa4267898.png?q=80&f=webp)
+![An example of the taxonomy dropdown field.](https://www.contensis.com/image-library/resources-images/user-guides-images/taxonomy-dropdown.xa4267898.png?q=80&f=webp)
 
 An example of the taxonomy dropdown field.
 
@@ -33,19 +33,19 @@ Setting name
 
 Summary
 
-[Name](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Name](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 A text label to identify the field in an entry.
 
-[Field ID](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Field ID](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 A sanitised name to be used by the API.
 
-[Allow multiple items to be selected](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Allow multiple items to be selected](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 Allows an author to select multiple items in the tree.
 
-[Read only](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Read only](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 Prevents authors from editing the field in the entry editor.
 
@@ -61,11 +61,11 @@ Property name
 
 Summary
 
-[Content guidelines](/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
+[Content guidelines](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
 
 Provides guidance to an author for the expected content that the field should contain.
 
-[Field visibility](/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
+[Field visibility](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
 
 Determines if the field should be displayed in the collapsed state when opening the entry editor.
 

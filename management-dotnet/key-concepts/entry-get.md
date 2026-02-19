@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Requesting an individual [entry](/help-and-docs/apis/management-dotnet/model/entry) can be achieved by using one of the `Get` method overloads.
+Requesting an individual [entry](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/entry) can be achieved by using one of the `Get` method overloads.
 
 -   [Get(Guid id, string language, string version)](#get-by-guid-id)
 -   [Get(string id, string language, string version)](#get-by-string-id)

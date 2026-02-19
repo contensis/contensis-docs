@@ -8,6 +8,6 @@ Gets an existing project by the project id. If the project id value is not speci
 
 ### Returns
 
-A Promise that will resolve with a [Project](/help-and-docs/apis/management-js/model/project) object.
+A Promise that will resolve with a [Project](https://www.contensis.com/help-and-docs/apis/management-js/model/project) object.
 
 ### Example

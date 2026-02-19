@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Search
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 09 December 2024
 
@@ -52,7 +52,7 @@ PagedList<Entry> entriesResult = await websiteProject.Entries.SearchAsync(query)
 
 ## Sub-queries
 
-A sub-query is a query within another query that is used as a condition to further restrict the results. Effectively they are defined by an explicit nesting of [logical operators](/help-and-docs/apis/management-dotnet/search/query-operators).
+A sub-query is a query within another query that is used as a condition to further restrict the results. Effectively they are defined by an explicit nesting of [logical operators](https://www.contensis.com/help-and-docs/apis/management-dotnet/search/query-operators).
 
 This example demonstrates a simple search with a sub-query:
 

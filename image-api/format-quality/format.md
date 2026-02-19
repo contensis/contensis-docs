@@ -17,7 +17,7 @@ The PNG file format is a common graphics format, often used for application asse
 
 JPEG is a lossy format. It does not support transparency or animation.
 
-JPEG is one of the most common formats on the web. It excels at displaying photographs. See the [quality](/help-and-docs/apis/image-api/format-quality/quality "quality") parameter for controlling the quality of the image.
+JPEG is one of the most common formats on the web. It excels at displaying photographs. See the [quality](https://www.contensis.com/help-and-docs/apis/image-api/format-quality/quality "quality") parameter for controlling the quality of the image.
 
 -   **Standard**
 -   **Short**

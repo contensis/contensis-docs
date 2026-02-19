@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Entries
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 13 November 2024
 
@@ -13,9 +13,9 @@ Page last updated 13 November 2024
 -   [Resolved entries](#resolved-entries)
 -   [Example](#example)
 
-An entry can link to other entries or assets as [entry](/help-and-docs/apis/delivery-js/model/entry), [asset](/help-and-docs/apis/delivery-js/model/asset) or [image](/help-and-docs/apis/delivery-js/model/image) field types. They can be defined as a standard entry field or as a [composed](/help-and-docs/apis/delivery-js/model/composed) field type in the content type. These links can be singular or multiples of the same content type for example a field containing a link (or multiple links) to an Actor content type entry, or an Image.
+An entry can link to other entries or assets as [entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry), [asset](https://www.contensis.com/help-and-docs/apis/delivery-js/model/asset) or [image](https://www.contensis.com/help-and-docs/apis/delivery-js/model/image) field types. They can be defined as a standard entry field or as a [composed](https://www.contensis.com/help-and-docs/apis/delivery-js/model/composed) field type in the content type. These links can be singular or multiples of the same content type for example a field containing a link (or multiple links) to an Actor content type entry, or an Image.
 
-Linked content can be [unresolved](#unresolved-entries) or [resolved](#resolved-entries) depending on whether a value for linkDepth has been provided when retrieving entries using the [get](/help-and-docs/apis/delivery-js/entries/get-entry), [list](/help-and-docs/apis/delivery-js/entries/list-entries) or [search](/help-and-docs/apis/delivery-js/entries/search/search-basics) entry methods. This is also supported when retrieving nodes but is referenced as entryLinkDepth.
+Linked content can be [unresolved](#unresolved-entries) or [resolved](#resolved-entries) depending on whether a value for linkDepth has been provided when retrieving entries using the [get](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/get-entry), [list](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/list-entries) or [search](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/search-basics) entry methods. This is also supported when retrieving nodes but is referenced as entryLinkDepth.
 
 ## Unresolved entries
 
@@ -66,7 +66,7 @@ When a linked entry is accessed then the following rules apply:
 
 -   If a language **has** been specified in the link, then the specific language variation will be returned.
 -   If a language **has** been specified in the link, but the specific language variation does not exist, then null will be returned or will not be included in the array.
--   If a language **has not** been specified, then the *defaultLanguage* value defined in the [content type](/help-and-docs/apis/delivery-js/model/content-type) will be used to select the appropriate entry variation to return.
+-   If a language **has not** been specified, then the *defaultLanguage* value defined in the [content type](https://www.contensis.com/help-and-docs/apis/delivery-js/model/content-type) will be used to select the appropriate entry variation to return.
 -   If a language **has not** been specified and there is no default variation, then null will be returned.
 
 ## Example

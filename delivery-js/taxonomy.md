@@ -1,8 +1,8 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 19 May 2022
 
@@ -20,7 +20,7 @@ The childDepth parameter is used to reduce the number of service calls if child 
 
 ## getNodeByKey
 
-A function that uses a taxonomy node key to retrieve taxonomy nodes. It returns a Promise that will resolve with a [TaxonomyNode](/help-and-docs/apis/delivery-js/model/taxonomy-node) instance.
+A function that uses a taxonomy node key to retrieve taxonomy nodes. It returns a Promise that will resolve with a [TaxonomyNode](https://www.contensis.com/help-and-docs/apis/delivery-js/model/taxonomy-node) instance.
 
 ### Syntax
 
@@ -60,7 +60,7 @@ console.log(node);
 
 ## getNodeByPath
 
-A function that uses a taxonomy node path to retrieve taxonomy nodes. It returns a Promise that will resolve with a [TaxonomyNode](/help-and-docs/apis/delivery-js/model/taxonomy-node) instance.
+A function that uses a taxonomy node path to retrieve taxonomy nodes. It returns a Promise that will resolve with a [TaxonomyNode](https://www.contensis.com/help-and-docs/apis/delivery-js/model/taxonomy-node) instance.
 
 ### Syntax
 
@@ -100,7 +100,7 @@ console.log(node);
 
 ## resolveChildren
 
-A function that uses a taxonomy node key or a taxonomy node instance to resolve taxonomy nodes. It returns a Promise that will resolve with a [TaxonomyNode](/help-and-docs/apis/delivery-js/model/taxonomy-node) instance.
+A function that uses a taxonomy node key or a taxonomy node instance to resolve taxonomy nodes. It returns a Promise that will resolve with a [TaxonomyNode](https://www.contensis.com/help-and-docs/apis/delivery-js/model/taxonomy-node) instance.
 
 ### Syntax
 

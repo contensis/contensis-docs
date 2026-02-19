@@ -1,4 +1,4 @@
-The data format property is used as an extension of a [data type](/help-and-docs/apis/management-js/key-concepts/data-types) to describe the structure and intent of the data. For example, a *location* has a data type of *object*, and a data format of *location*. Another example is a HTML block, which has a data type of *string* and a data format of *html*.
+The data format property is used as an extension of a [data type](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/data-types) to describe the structure and intent of the data. For example, a *location* has a data type of *object*, and a data format of *location*. Another example is a HTML block, which has a data type of *string* and a data format of *html*.
 
 The data format is a string value and is designed to allow custom types to be added.
 
@@ -12,7 +12,7 @@ Description
 
 Applicable Validations
 
-[entry](/help-and-docs/apis/management-js/model/entry)
+[entry](https://www.contensis.com/help-and-docs/apis/management-js/model/entry)
 
 object
 
@@ -30,7 +30,7 @@ An asset format that represents a file resource.
 [required](about:/help-and-docs/apis/management-js/key-concepts/validations#required)  
 [allowedContentTypes](about:/help-and-docs/apis/management-js/key-concepts/validations#allowedcontenttypes)
 
-[location](/help-and-docs/apis/management-js/model/location)
+[location](https://www.contensis.com/help-and-docs/apis/management-js/model/location)
 
 object
 
@@ -38,7 +38,7 @@ Represents a point on the surface of the Earth.
 
 [required](about:/help-and-docs/apis/management-js/key-concepts/validations#required)
 
-[quote](/help-and-docs/apis/management-js/model/quote)
+[quote](https://www.contensis.com/help-and-docs/apis/management-js/model/quote)
 
 object
 
@@ -47,7 +47,7 @@ A quote with text and a source.
 [required](about:/help-and-docs/apis/management-js/key-concepts/validations#required)  
 [requiredFields](about:/help-and-docs/apis/management-js/key-concepts/validations#requiredfields)
 
-[dateRange](/help-and-docs/apis/management-js/model/date-range)
+[dateRange](https://www.contensis.com/help-and-docs/apis/management-js/model/date-range)
 
 object
 
@@ -58,7 +58,7 @@ Represents a range of date times.
 [max](about:/help-and-docs/apis/management-js/key-concepts/validations#max)  
 [pastDateTime](about:/help-and-docs/apis/management-js/key-concepts/validations#pastdatetime)
 
-[image](/help-and-docs/apis/management-js/model/image)
+[image](https://www.contensis.com/help-and-docs/apis/management-js/model/image)
 
 object
 
@@ -71,7 +71,7 @@ field
 
 objectArray
 
-Represents a [composed](/help-and-docs/apis/management-js/model/composed) type, defined as an objectArray data type.
+Represents a [composed](https://www.contensis.com/help-and-docs/apis/management-js/model/composed) type, defined as an objectArray data type.
 
 [required](about:/help-and-docs/apis/management-js/key-concepts/validations#required)  
 [allowedFieldTypes](about:/help-and-docs/apis/management-js/key-concepts/validations#allowedfieldtypes)
@@ -80,7 +80,7 @@ component.\*
 
 object
 
-Represents a [component](/help-and-docs/guides/modelling-content/components/overview) type. The asterisk represents the component id.
+Represents a [component](https://www.contensis.com/help-and-docs/guides/modelling-content/components/overview) type. The asterisk represents the component id.
 
 [required](about:/help-and-docs/apis/management-js/key-concepts/validations#required)  
 [allowedFieldTypes](about:/help-and-docs/apis/management-js/key-concepts/validations#allowedfieldtypes)

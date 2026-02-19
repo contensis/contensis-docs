@@ -22,7 +22,7 @@ name
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The friendly name given to the parameter.
 
@@ -30,7 +30,7 @@ description
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The description given to the parameter.
 

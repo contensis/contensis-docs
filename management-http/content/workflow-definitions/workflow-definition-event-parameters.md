@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
 4.  Content
-5.  [Workflow Definitions](/help-and-docs/apis/management-http/content/workflow-definitions)
+5.  [Workflow Definitions](https://www.contensis.com/help-and-docs/apis/management-http/content/workflow-definitions)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 24 September 2021
 
@@ -30,7 +30,7 @@ The identifier for the parameter.
 
 object
 
-[localized value](/help-and-docs/apis/management-http/key-concepts/localization)
+[localized value](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/localization)
 
 The friendly name given to the parameter.
 
@@ -38,7 +38,7 @@ The friendly name given to the parameter.
 
 object
 
-[localized value](/help-and-docs/apis/management-http/key-concepts/localization)
+[localized value](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/localization)
 
 The description given to the parameter.
 
@@ -62,7 +62,7 @@ This should be set to null.
 
 object\[...\]
 
-[validation](/help-and-docs/apis/management-http/content/workflow-definitions/workflow-definition-event-validation)
+[validation](https://www.contensis.com/help-and-docs/apis/management-http/content/workflow-definitions/workflow-definition-event-validation)
 
 The validation to be used.
 
@@ -70,7 +70,7 @@ The validation to be used.
 
 object
 
-[editor](/help-and-docs/apis/management-http/content/workflow-definitions/workflow-definition-event-editor)
+[editor](https://www.contensis.com/help-and-docs/apis/management-http/content/workflow-definitions/workflow-definition-event-editor)
 
 The editor to be used.
 

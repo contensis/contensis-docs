@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
 4.  Key Concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 24 September 2024
 
@@ -15,7 +15,7 @@ An entry's life-cycle is controlled by the workflow assigned to the content type
 
 Allows content to be authored and then published instantly.
 
-![Basic workflow](/image-library/resources-images/basic-workflow.xa842a2f2.png?q=80&f=webp)
+![Basic workflow](https://www.contensis.com/image-library/resources-images/basic-workflow.xa842a2f2.png?q=80&f=webp)
 
 undefined
 
@@ -23,7 +23,7 @@ undefined
 
 Allows content to be submitted for approval so that it is controlled by an authorised approver before it is made live.
 
-![Approval workflow](/image-library/resources-images/developer-documentation-images/approval-workflow.x70f20142.png?q=80&f=webp)
+![Approval workflow](https://www.contensis.com/image-library/resources-images/developer-documentation-images/approval-workflow.x70f20142.png?q=80&f=webp)
 
 undefined
 
@@ -31,7 +31,7 @@ Entries are by default controlled by the *basic* workflow, but this can be chang
 
 ## Invoking events
 
-Workflow events can be invoked by POST'ing a [workflow trigger](/help-and-docs/apis/management-http/key-concepts/workflow-trigger) to the workflow events resource for an entry.
+Workflow events can be invoked by POST'ing a [workflow trigger](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/workflow-trigger) to the workflow events resource for an entry.
 
 EXAMPLE
 

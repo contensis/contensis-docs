@@ -1,19 +1,19 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Components
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Creates a new component resource from a [Component](/help-and-docs/apis/management-js/model/component) object passed as an argument.
+Creates a new component resource from a [Component](https://www.contensis.com/help-and-docs/apis/management-js/model/component) object passed as an argument.
 
 ***create(component: Component): Promise<Component>***
 
 ## Returns
 
-A Promise that will resolve with a [Component](/help-and-docs/apis/management-js/model/component) object.
+A Promise that will resolve with a [Component](https://www.contensis.com/help-and-docs/apis/management-js/model/component) object.
 
 ## Example
 

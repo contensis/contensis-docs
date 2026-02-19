@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
 4.  Content
-5.  [Workflow Definitions](/help-and-docs/apis/management-http/content/workflow-definitions)
+5.  [Workflow Definitions](https://www.contensis.com/help-and-docs/apis/management-http/content/workflow-definitions)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 24 September 2021
 
@@ -30,7 +30,7 @@ An identifier for the event, which must be unique within the workflow state.
 
 object
 
-[localized value](/help-and-docs/apis/management-http/key-concepts/localization)
+[localized value](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/localization)
 
 The friendly name given to the event.
 
@@ -38,7 +38,7 @@ The friendly name given to the event.
 
 object
 
-[localized value](/help-and-docs/apis/management-http/key-concepts/localization)
+[localized value](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/localization)
 
 A description of the event.
 
@@ -46,7 +46,7 @@ A description of the event.
 
 object
 
-[localized value](/help-and-docs/apis/management-http/key-concepts/localization)
+[localized value](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/localization)
 
 The audit text written to the event history log for the event.
 
@@ -70,7 +70,7 @@ The identifier of the workflow \[event group\](event-group) which the event belo
 
 string
 
-[\-](/help-and-docs/apis/management-http/content/workflow-definitions/workflow-definition-event-button-color)
+[\-](https://www.contensis.com/help-and-docs/apis/management-http/content/workflow-definitions/workflow-definition-event-button-color)
 
 The color to be displayed in the Contensis UI for the event.
 
@@ -86,7 +86,7 @@ The event to be performed by the Contensis UI when an entry exits the workflow s
 
 object\[...\]
 
-[\-](/help-and-docs/apis/management-http/content/workflow-definitions/workflow-definition-event-parameters)
+[\-](https://www.contensis.com/help-and-docs/apis/management-http/content/workflow-definitions/workflow-definition-event-parameters)
 
 A list of parameters for the event.
 

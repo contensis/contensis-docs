@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Delivery API](/help-and-docs/apis/delivery-http)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-http)
 4.  Content
-5.  [Entry](/help-and-docs/apis/delivery-http/content/entry)
+5.  [Entry](https://www.contensis.com/help-and-docs/apis/delivery-http/content/entry)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 11 January 2024
 
@@ -134,31 +134,31 @@ Model
 
 Success
 
-[Entry](/help-and-docs/apis/management-http/content/entries)
+[Entry](https://www.contensis.com/help-and-docs/apis/management-http/content/entries)
 
 **401**
 
 Unauthorized
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **404**
 
 Project not found
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **404**
 
 Content type not found
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **500**
 
 Internal server error
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 ## Examples
 
