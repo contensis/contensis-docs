@@ -19,7 +19,7 @@ This repository is indexed by [Context7](https://context7.com) for use with AI c
 
 **Example prompt:**
 ```
-use context7: How do I fetch an entry using the Contensis Delivery API?
+How do I fetch an entry using the Contensis Delivery API? use context7
 ```
 
 ## 📁 Repository Structure
