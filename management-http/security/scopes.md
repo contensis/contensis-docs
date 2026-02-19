@@ -1,19 +1,19 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
-4.  [Security](/help-and-docs/apis/management-http/security)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
+4.  [Security](https://www.contensis.com/help-and-docs/apis/management-http/security)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 24 September 2024
 
-OAuth 2.0 scopes allow a developer to specify which resources their application can access. These are included as a space-separated list value, in the scope parameter when invoking an [authentication](/help-and-docs/apis/management-http/security/authentication) request.
+OAuth 2.0 scopes allow a developer to specify which resources their application can access. These are included as a space-separated list value, in the scope parameter when invoking an [authentication](https://www.contensis.com/help-and-docs/apis/management-http/security/authentication) request.
 
 Scope name
 
@@ -21,23 +21,23 @@ Associated methods
 
 Project\_Read
 
-[Get a project](/help-and-docs/apis/management-http/projects/get-a-project)
+[Get a project](https://www.contensis.com/help-and-docs/apis/management-http/projects/get-a-project)
 
 Entry\_Read
 
-[Get an entry](/help-and-docs/apis/management-http/content/entries/get-an-entry)  
-[List entries](/help-and-docs/apis/management-http/content/entries/list-all-entries)  
-[List entries by content type](/help-and-docs/apis/management-http/content/entries/list-entries-by-content-type)
+[Get an entry](https://www.contensis.com/help-and-docs/apis/management-http/content/entries/get-an-entry)  
+[List entries](https://www.contensis.com/help-and-docs/apis/management-http/content/entries/list-all-entries)  
+[List entries by content type](https://www.contensis.com/help-and-docs/apis/management-http/content/entries/list-entries-by-content-type)
 
 Entry\_Write
 
-[Create an entry](/help-and-docs/apis/management-http/content/entries/create-an-entry)  
-[Update an entry](/help-and-docs/apis/management-http/content/entries/update-an-entry)  
-[Publish an entry](/help-and-docs/apis/management-http/content/entries/invoking-workflow)
+[Create an entry](https://www.contensis.com/help-and-docs/apis/management-http/content/entries/create-an-entry)  
+[Update an entry](https://www.contensis.com/help-and-docs/apis/management-http/content/entries/update-an-entry)  
+[Publish an entry](https://www.contensis.com/help-and-docs/apis/management-http/content/entries/invoking-workflow)
 
 Entry\_Delete
 
-[Delete an entry](/help-and-docs/apis/management-http/content/entries/delete-an-entry)
+[Delete an entry](https://www.contensis.com/help-and-docs/apis/management-http/content/entries/delete-an-entry)
 
 HTTP
 

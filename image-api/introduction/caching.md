@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [Image API](/help-and-docs/apis/image-api)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [Image API](https://www.contensis.com/help-and-docs/apis/image-api)
 4.  Introduction
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 28 February 2023
 
@@ -38,7 +38,7 @@ With this policy, the browser completely skips the process of making requests to
 
 ## Image caching in the Delivery API - 1 year
 
-When requesting an image through the Delivery API we add a unique hash to the filename of the image. Please refer to the [fundamentals](/help-and-docs/apis/image-api/introduction/fundamentals "fundamentals") page to see a full JSON example.
+When requesting an image through the Delivery API we add a unique hash to the filename of the image. Please refer to the [fundamentals](https://www.contensis.com/help-and-docs/apis/image-api/introduction/fundamentals "fundamentals") page to see a full JSON example.
 
 HTTP
 

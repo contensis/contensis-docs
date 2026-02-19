@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
 4.  publishing
 5.  proxies
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 17 January 2023
 
@@ -64,13 +64,13 @@ Model
 
 Unauthorized
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **500**
 
 Internal server error
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 ## Examples
 

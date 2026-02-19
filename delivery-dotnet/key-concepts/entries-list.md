@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 22 January 2024
 
@@ -44,7 +44,7 @@ public PagedList<Entry> List(PageOptions pageOptions = null)
 
 *pageOptions*
 
-Type: [PageOptions](/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
+Type: [PageOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
 Paging options for specifying the page index and size.
 
 ### Remarks
@@ -88,7 +88,7 @@ The model class, either a plain class or inheriting from EntryModel.
 
 *pageOptions*
 
-Type: [PageOptions](/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
+Type: [PageOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
 Paging options for specifying the page index and size.
 
 ### Remarks
@@ -139,7 +139,7 @@ public async Task<PagedList<Entry>> List(PageOptions pageOptions = null)
 
 *pageOptions*
 
-Type: [PageOptions](/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
+Type: [PageOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
 Paging options for specifying the page index and size.
 
 ### Remarks
@@ -183,7 +183,7 @@ The model class, either a plain class or inheriting from EntryModel.
 
 *pageOptions*
 
-Type: [PageOptions](/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
+Type: [PageOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
 Paging options for specifying the page index and size.
 
 ### Remarks
@@ -239,7 +239,7 @@ The id of the content type to restrict the entries by.
 
 *pageOptions*
 
-Type: [PageOptions](/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
+Type: [PageOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
 Paging options for specifying the page index and size.
 
 ### Remarks
@@ -288,7 +288,7 @@ The id of the content type to restrict the entries by.
 
 *pageOptions*
 
-Type: [PageOptions](/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
+Type: [PageOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
 Paging options for specifying the page index and size.
 
 ### Remarks
@@ -344,7 +344,7 @@ The id of the content type to restrict the entries by.
 
 *pageOptions*
 
-Type: [PageOptions](/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
+Type: [PageOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
 Paging options for specifying the page index and size.
 
 ### Remarks
@@ -393,7 +393,7 @@ The id of the content type to restrict the entries by.
 
 *pageOptions*
 
-Type: [PageOptions](/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
+Type: [PageOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/pageoptions)  
 Paging options for specifying the page index and size.
 
 ### Remarks
@@ -638,7 +638,7 @@ var entries = await client.Entries.ListAsync<Movie>("movie", new PageOptions(3, 
 
 ## List with options object
 
-Lists entries using an [EntryListOptions](/help-and-docs/apis/delivery-dotnet/model/entrylistoptions) object to allow more granular control of entries being returned.
+Lists entries using an [EntryListOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entrylistoptions) object to allow more granular control of entries being returned.
 
 ### Syntax
 
@@ -654,7 +654,7 @@ public PagedList<Entry> List(EntryListOptions listOptions)
 
 *listOptions*
 
-Type: [EntryListOptions](/help-and-docs/apis/delivery-dotnet/model/entrylistoptions)  
+Type: [EntryListOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entrylistoptions)  
 Allows all parameters to be optionally set and exposes less commonly used parameters.
 
 ### Remarks
@@ -683,7 +683,7 @@ var entries = client.Entries.List(new EntryListOptions{
 
 ## List as typed model with options object
 
-Lists entries as typed models using an [EntryListOptions](/help-and-docs/apis/delivery-dotnet/model/entrylistoptions) object to allow more granular control of entries being returned.
+Lists entries as typed models using an [EntryListOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entrylistoptions) object to allow more granular control of entries being returned.
 
 ### Syntax
 
@@ -703,7 +703,7 @@ The model class, either a plain class or inheriting from EntryModel.
 
 *listOptions*
 
-Type: [EntryListOptions](/help-and-docs/apis/delivery-dotnet/model/entrylistoptions)  
+Type: [EntryListOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entrylistoptions)  
 Allows all parameters to be optionally set and exposes less commonly used parameters.
 
 ### Remarks
@@ -743,7 +743,7 @@ var entries = client.Entries.List<Movie>(new EntryListOptions{
 
 ## List with options object asynchronously
 
-Lists entries using an [EntryListOptions](/help-and-docs/apis/delivery-dotnet/model/entrylistoptions) object to allow more granular control of entries being returned.
+Lists entries using an [EntryListOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entrylistoptions) object to allow more granular control of entries being returned.
 
 ### Syntax
 
@@ -759,7 +759,7 @@ public Task<PagedList<Entry>> ListAsync(EntryListOptions listOptions)
 
 *listOptions*
 
-Type: [EntryListOptions](/help-and-docs/apis/delivery-dotnet/model/entrylistoptions)  
+Type: [EntryListOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entrylistoptions)  
 Allows all parameters to be optionally set and exposes less commonly used parameters.
 
 ### Remarks
@@ -788,7 +788,7 @@ var entries = await client.Entries.ListAsync(new EntryListOptions{
 
 ## List as typed model with options object asynchronously
 
-Lists entries using an [EntryListOptions](/help-and-docs/apis/delivery-dotnet/model/entrylistoptions) object to allow more granular control of entries being returned.
+Lists entries using an [EntryListOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entrylistoptions) object to allow more granular control of entries being returned.
 
 ### Syntax
 
@@ -808,7 +808,7 @@ The model class, either a plain class or inheriting from EntryModel.
 
 *listOptions*
 
-Type: [EntryListOptions](/help-and-docs/apis/delivery-dotnet/model/entrylistoptions)  
+Type: [EntryListOptions](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entrylistoptions)  
 Allows all parameters to be optionally set and exposes less commonly used parameters.
 
 ### Remarks

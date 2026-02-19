@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Nodes
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 13 November 2024
 
@@ -17,7 +17,7 @@ Page last updated 13 November 2024
 -   [Get node ancestor at level](#get-node-ancestor-at-level)
 -   [Get node parent](#get-node-parent)
 
-Call the nodes.getAncestors() method in our delivery client to get the ancestor nodes of an existing [node](/help-and-docs/apis/delivery-js/model/node) from site view, optionally resolving an attached [entry](/help-and-docs/apis/delivery-js/model/entry)
+Call the nodes.getAncestors() method in our delivery client to get the ancestor nodes of an existing [node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node) from site view, optionally resolving an attached [entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)
 
 ### Call signatures
 
@@ -47,19 +47,19 @@ The id of the node
 
 node
 
-[Node](/help-and-docs/apis/delivery-js/model/node)
+[Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node)
 
 A node object
 
 options
 
-[NodeGetAncestorsOptions](/help-and-docs/apis/delivery-js/model/node-get-ancestors-options)
+[NodeGetAncestorsOptions](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node-get-ancestors-options)
 
 An options object to apply additional refinements
 
 ### Returns
 
-A Promise that will resolve an array of [Node](/help-and-docs/apis/delivery-js/model/node)
+A Promise that will resolve an array of [Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node)
 
 ### Remarks
 
@@ -101,7 +101,7 @@ for (const node of nodes) {
 
 ## Get node ancestor at level
 
-Call the nodes.getAncestorAtLevel() method in our delivery client to get the ancestor node of an existing [node](/help-and-docs/apis/delivery-js/model/node) at a specific level from site view, optionally resolving an attached [entry](/help-and-docs/apis/delivery-js/model/entry)
+Call the nodes.getAncestorAtLevel() method in our delivery client to get the ancestor node of an existing [node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node) at a specific level from site view, optionally resolving an attached [entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)
 
 ### Call signatures
 
@@ -121,13 +121,13 @@ Description
 
 options
 
-[NodeGetAncestorAtLevelOptions](/help-and-docs/apis/delivery-js/model/node-get-ancestor-at-level-options)
+[NodeGetAncestorAtLevelOptions](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node-get-ancestor-at-level-options)
 
 An options object to supply required refinements
 
 ### Returns
 
-A Promise that will resolve with a [Node](/help-and-docs/apis/delivery-js/model/node)
+A Promise that will resolve with a [Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node)
 
 ### Remarks
 
@@ -151,7 +151,7 @@ const node = await client.nodes.getAncestorAtLevel({
 
 ## Get node parent
 
-Call the nodes.getParent() method in our delivery client to get the immediate ancestor node of an existing [node](/help-and-docs/apis/delivery-js/model/node) from site view, optionally resolving an attached [entry](/help-and-docs/apis/delivery-js/model/entry)
+Call the nodes.getParent() method in our delivery client to get the immediate ancestor node of an existing [node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node) from site view, optionally resolving an attached [entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)
 
 ### Call signatures
 
@@ -181,19 +181,19 @@ The id of the node
 
 node
 
-[Node](/help-and-docs/apis/delivery-js/model/node)
+[Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node)
 
 A node object
 
 options
 
-[NodeGetParentOptions](/help-and-docs/apis/delivery-js/model/node-get-parent-options)
+[NodeGetParentOptions](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node-get-parent-options)
 
 An options object to apply additional refinements
 
 ### Returns
 
-A Promise that will resolve with a [Node](/help-and-docs/apis/delivery-js/model/node)
+A Promise that will resolve with a [Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node)
 
 ### Remarks
 

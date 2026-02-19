@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 26 April 2022
 
@@ -37,7 +37,7 @@ The name of the group.
 
 Type
 
-[GroupType](/help-and-docs/apis/management-dotnet/model/grouptype)
+[GroupType](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/grouptype)
 
 The type of the group, 'Sys', 'Contensis', 'External'.
 
@@ -87,13 +87,13 @@ Adds multiple users to the group asynchronously.
 
 [Children](about:/help-and-docs/apis/management-dotnet/security/groups/list-child-groups#list-with-page-options)
 
-PagedList<[Group](/help-and-docs/apis/management-dotnet/model/group)\>
+PagedList<[Group](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group)\>
 
 Lists the child groups for the group.
 
 [ChildrenAsync](about:/help-and-docs/apis/management-dotnet/security/groups/list-child-groups#list-with-page-options-async)
 
-PagedList<[Group](/help-and-docs/apis/management-dotnet/model/group)\>
+PagedList<[Group](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group)\>
 
 Lists the child groups for the group asynchronously.
 
@@ -133,13 +133,13 @@ void
 
 Removes a user from the group asynchronously.
 
-[Save](/help-and-docs/apis/management-dotnet/security/groups/create-and-update-groups)
+[Save](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/groups/create-and-update-groups)
 
 void
 
 Saves the group.
 
-[SaveAsync](/help-and-docs/apis/management-dotnet/security/groups/create-and-update-groups)
+[SaveAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/groups/create-and-update-groups)
 
 void
 

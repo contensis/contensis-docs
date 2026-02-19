@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Governing content](/help-and-docs/guides/governing-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Governing content](https://www.contensis.com/help-and-docs/guides/governing-content)
 4.  Roles and permissions
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 09 December 2024
 
@@ -15,7 +15,7 @@ These permissions allow a user to perform administrative actions in a specific f
 
 ## Content permissions
 
-Content permissions allow users to create, edit, delete, approve or view pieces of content. These can be set for either users or whole [user groups](/help-and-docs/guides/managing-users/groups/manage-your-groups). Again these are set for specific folders or the project as a whole. Users will only be able to create, edit, delete or approve content inside of the folders you have given them permission for.
+Content permissions allow users to create, edit, delete, approve or view pieces of content. These can be set for either users or whole [user groups](https://www.contensis.com/help-and-docs/guides/managing-users/groups/manage-your-groups). Again these are set for specific folders or the project as a whole. Users will only be able to create, edit, delete or approve content inside of the folders you have given them permission for.
 
 ## Template permissions
 

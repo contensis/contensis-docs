@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Delivery API](/help-and-docs/apis/delivery-http)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-http)
 4.  Navigation
-5.  [Nodes](/help-and-docs/apis/delivery-http/navigation/nodes)
+5.  [Nodes](https://www.contensis.com/help-and-docs/apis/delivery-http/navigation/nodes)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 11 January 2024
 
@@ -96,25 +96,25 @@ Model
 
 Success
 
-[Node](/help-and-docs/apis/management-http/navigation/nodes)
+[Node](https://www.contensis.com/help-and-docs/apis/management-http/navigation/nodes)
 
 **404**
 
 Project not found
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **404**
 
 Node not found
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **500**
 
 Internal server error
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 ## Examples
 

@@ -2,4 +2,4 @@ Localization for an entry is identified by a language code which is formed using
 
 The language code is in lowercase and if the country code is included, then it is separated with a dash and uppercased.
 
-Contensis currently supports a subset of [language codes](/help-and-docs/user-guides/authoring/entries/multi-language-support "Multi language support") which can be set when creating a project, and enabled against a content type.
+Contensis currently supports a subset of [language codes](https://www.contensis.com/help-and-docs/user-guides/authoring/entries/multi-language-support "Multi language support") which can be set when creating a project, and enabled against a content type.

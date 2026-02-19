@@ -1,4 +1,4 @@
-Users in the [Role administrators](/help-and-docs/user-guides/environment/user-management/groups/contensis-system-groups) group can view roles in the *Roles listing* screen. This screen provides an overview of all the roles in your system, with an overview of any user assignments for the role and its current status.
+Users in the [Role administrators](https://www.contensis.com/help-and-docs/user-guides/environment/user-management/groups/contensis-system-groups) group can view roles in the *Roles listing* screen. This screen provides an overview of all the roles in your system, with an overview of any user assignments for the role and its current status.
 
 ## View roles
 

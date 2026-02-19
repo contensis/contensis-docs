@@ -2,5 +2,5 @@ Contensis supports Single Sign-On (SSO). If your Contensis instance is SSO-enabl
 
 ## SSO setup guides
 
--   [Setup SSO with AD FS](/help-and-docs/guides/managing-users/single-sign-on/adfs-single-sign-on)
--   [Setup SSO with Azure AD](/help-and-docs/guides/managing-users/single-sign-on/azure-ad-single-sign-on)
+-   [Setup SSO with AD FS](https://www.contensis.com/help-and-docs/guides/managing-users/single-sign-on/adfs-single-sign-on)
+-   [Setup SSO with Azure AD](https://www.contensis.com/help-and-docs/guides/managing-users/single-sign-on/azure-ad-single-sign-on)

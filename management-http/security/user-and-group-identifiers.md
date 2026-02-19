@@ -1,21 +1,21 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
-4.  [Security](/help-and-docs/apis/management-http/security)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
+4.  [Security](https://www.contensis.com/help-and-docs/apis/management-http/security)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 24 September 2024
 
-For convenience, [User](/help-and-docs/apis/management-http/security/users) and [Group](/help-and-docs/apis/management-http/security/groups) resources can be identified by using one of several identifiers.
+For convenience, [User](https://www.contensis.com/help-and-docs/apis/management-http/security/users) and [Group](https://www.contensis.com/help-and-docs/apis/management-http/security/groups) resources can be identified by using one of several identifiers.
 
-For example, a [User](/help-and-docs/apis/management-http/security/users) can be identified by Username, Id or Email Address. A [Group](/help-and-docs/apis/management-http/security/groups) can be identified by Name or Id.
+For example, a [User](https://www.contensis.com/help-and-docs/apis/management-http/security/users) can be identified by Username, Id or Email Address. A [Group](https://www.contensis.com/help-and-docs/apis/management-http/security/groups) can be identified by Name or Id.
 
 A combination of identifiers can be used if an endpoint requires both types of resource.
 

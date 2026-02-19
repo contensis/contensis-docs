@@ -1,6 +1,6 @@
 If you regularly manage content for your website, then the natural way to find your content is to locate it through your site navigation at a specific URL. Site View gives you a place to do that.
 
-Access to the Site View tree is determined by being part of a role with Site View permission. Usually, editing entries would require entry permission for the content type your want to update as well as [Update node permission](/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) in order to update the display name or URL slug.
+Access to the Site View tree is determined by being part of a role with Site View permission. Usually, editing entries would require entry permission for the content type your want to update as well as [Update node permission](https://www.contensis.com/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) in order to update the display name or URL slug.
 
 1.  Select **Site View** from the sidebar to manage your site structure and content.
 2.  With *Site View* open, use the tree to navigate to the area in your site that you'd like to update.

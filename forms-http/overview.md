@@ -16,5 +16,5 @@ To render a form on your frontend, you have two options:
 
 The Forms API consists of two key endpoints:
 
--   **[Get a form content type](/help-and-docs/apis/forms-http/get-a-form-content-type):** Fetches the definition of the form to be rendered on your frontend.
--   **[Submit a form response](/help-and-docs/apis/forms-http/submit-a-form-response):** Handles the submission of form responses.
+-   **[Get a form content type](https://www.contensis.com/help-and-docs/apis/forms-http/get-a-form-content-type):** Fetches the definition of the form to be rendered on your frontend.
+-   **[Submit a form response](https://www.contensis.com/help-and-docs/apis/forms-http/submit-a-form-response):** Handles the submission of form responses.

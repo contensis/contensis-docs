@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 13 November 2024
 
@@ -12,7 +12,7 @@ Page last updated 13 November 2024
 -   [Properties](#properties)
 -   [Example](#example)
 
-The composed field type contains the data that the [composer editor](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/composer-field) defines. It is an array of objects which expose *type* and *value* properties. The *type* property is a name given to an *allowed field type validation* defined in the [content type](/help-and-docs/apis/delivery-js/model/content-type) that the entry is based on. The *value* contains the data for the field.
+The composed field type contains the data that the [composer editor](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/composer-field) defines. It is an array of objects which expose *type* and *value* properties. The *type* property is a name given to an *allowed field type validation* defined in the [content type](https://www.contensis.com/help-and-docs/apis/delivery-js/model/content-type) that the entry is based on. The *value* contains the data for the field.
 
 An *allowed field type* is essentially any standard field (such as Image, Heading, Location, etc.) that restricts what types of field can be added to a composed field.
 

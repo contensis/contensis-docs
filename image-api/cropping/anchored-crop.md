@@ -1,19 +1,19 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [Image API](/help-and-docs/apis/image-api)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [Image API](https://www.contensis.com/help-and-docs/apis/image-api)
 4.  Cropping
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 20 April 2023
 
-Extract a region of the original image with a given width and height. You can specify the [anchor](#anchor) parameter to select which part of the image to extract, or use exact [coordinate cropping](/help-and-docs/apis/image-api/cropping/exact-crop "exact-crop").
+Extract a region of the original image with a given width and height. You can specify the [anchor](#anchor) parameter to select which part of the image to extract, or use exact [coordinate cropping](https://www.contensis.com/help-and-docs/apis/image-api/cropping/exact-crop "exact-crop").
 
 ![Example crop area for exact crop](https://www.contensis.com/image-library/resources-images/image-api-examples/tree-frog-anchor-example.jpg?width=1000&quality=50)
 

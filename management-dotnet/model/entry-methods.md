@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 06 September 2023
 
@@ -74,7 +74,7 @@ public T Get<T>(string fieldName)
 
 *T*
 
-The type to attempt to cast the field data to. The type will either be a [DataType](/help-and-docs/apis/management-dotnet/key-concepts/data-types), a supported [DataFormat](/help-and-docs/apis/management-dotnet/key-concepts/data-format) type or a custom type.
+The type to attempt to cast the field data to. The type will either be a [DataType](https://www.contensis.com/help-and-docs/apis/management-dotnet/key-concepts/data-types), a supported [DataFormat](https://www.contensis.com/help-and-docs/apis/management-dotnet/key-concepts/data-format) type or a custom type.
 
 *fieldName*
 
@@ -533,7 +533,7 @@ The variation language to create.
 
 ### Return value
 
-Type: [Entry](/help-and-docs/apis/management-dotnet/model/entry)  
+Type: [Entry](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/entry)  
 The newly created (unsaved) entry language variation.
 
 ### Remarks
@@ -571,7 +571,7 @@ public Entry Clone()
 
 ### Return value
 
-Type: [Entry](/help-and-docs/apis/management-dotnet/model/entry)  
+Type: [Entry](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/entry)  
 The newly cloned entry with the language matching the entry variation that was cloned.
 
 ### Example
@@ -599,7 +599,7 @@ public async Task<Entry> CloneAsync()
 
 ### Return value
 
-Type: [Entry](/help-and-docs/apis/management-dotnet/model/entry)  
+Type: [Entry](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/entry)  
 The newly cloned entry with the language matching the entry variation that was cloned.
 
 ### Example

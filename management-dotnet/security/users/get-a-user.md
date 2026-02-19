@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Security
 5.  Users
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Requesting an individual [user](/help-and-docs/apis/management-dotnet/model/user) can be achieved by using one of the `Get` methods overloads.
+Requesting an individual [user](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/user) can be achieved by using one of the `Get` methods overloads.
 
 -   [Get(Guid id)](#get-by-id)
 -   [GetAsync(Guid id)](#get-by-id-async)

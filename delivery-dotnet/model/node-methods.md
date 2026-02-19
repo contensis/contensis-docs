@@ -533,7 +533,7 @@ Entry movie = await currentNode.EntryAsync();
 
 ## Entry<T>
 
-Gets the entry instance as a [typed model](/help-and-docs/apis/delivery-dotnet/key-concepts/typed-models "typed-models") if one has been assigned. The language for the entry will match the language of the node.
+Gets the entry instance as a [typed model](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/key-concepts/typed-models "typed-models") if one has been assigned. The language for the entry will match the language of the node.
 
 ### Syntax
 
@@ -570,7 +570,7 @@ Movie movie = currentNode.Entry<Movie>();
 
 ## EntryAsync<T>
 
-Gets the entry instance as a [typed model](/help-and-docs/apis/delivery-dotnet/key-concepts/typed-models "typed-models") asynchronously if one has been assigned. The language for the entry will match the language of the node.
+Gets the entry instance as a [typed model](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/key-concepts/typed-models "typed-models") asynchronously if one has been assigned. The language for the entry will match the language of the node.
 
 ### Syntax
 

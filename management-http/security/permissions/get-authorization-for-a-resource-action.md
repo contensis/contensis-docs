@@ -1,16 +1,16 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
-4.  [Security](/help-and-docs/apis/management-http/security)
-5.  [Permissions overview](/help-and-docs/apis/management-http/security/permissions)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
+4.  [Security](https://www.contensis.com/help-and-docs/apis/management-http/security)
+5.  [Permissions overview](https://www.contensis.com/help-and-docs/apis/management-http/security/permissions)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 31 January 2025
 
@@ -78,7 +78,7 @@ query
 
 string
 
-[LanguageCode](/help-and-docs/apis/management-http/key-concepts/localization)
+[LanguageCode](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/localization)
 
 Example request
 
@@ -106,13 +106,13 @@ Authorized true
 
 Not authorized for action
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 500
 
 InternalServerError
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 Example request
 

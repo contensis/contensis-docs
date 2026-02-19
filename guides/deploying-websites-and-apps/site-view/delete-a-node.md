@@ -1,5 +1,5 @@
 Occasionally, you may need to delete nodes in your site structure. Deleting nodes fit into two categories – child nodes, sometimes called leaf nodes, and parent nodes containing children. The process is similar for both types, but deleting either will impact your site differently.  
-To delete a node, you need to be a part of a role with [Delete node permission](/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) or a Site View Administrator's security group member.
+To delete a node, you need to be a part of a role with [Delete node permission](https://www.contensis.com/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) or a Site View Administrator's security group member.
 
 ## Delete a child node
 

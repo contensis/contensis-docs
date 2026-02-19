@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
-4.  [Security](/help-and-docs/apis/management-http/security)
-5.  [User](/help-and-docs/apis/management-http/security/users)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
+4.  [Security](https://www.contensis.com/help-and-docs/apis/management-http/security)
+5.  [User](https://www.contensis.com/help-and-docs/apis/management-http/security/users)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 17 June 2022
 
@@ -28,7 +28,7 @@ path
 
 string
 
-[user identifier](/help-and-docs/apis/management-http/security/user-and-group-identifiers)
+[user identifier](https://www.contensis.com/help-and-docs/apis/management-http/security/user-and-group-identifiers)
 
 For convenience, User resources can be referenced by using one of several identifiers - username, email address or Id.
 
@@ -48,37 +48,37 @@ OK - password updated successfully
 
 Unauthorized
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **403**
 
 Forbidden
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **404**
 
 User not found
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **409**
 
 Invalid existing password
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **422**
 
 Password invalid
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **500**
 
 Internal server error
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 ## Examples
 
@@ -124,4 +124,4 @@ POST: /api/security/users/t.durden@fightclub.com/credentials/password
 
 ## Remarks
 
-If the existing password is wrong then a 409 Conflict status is returned. If the new password does not meet the [user password policy](/help-and-docs/apis/management-http/security/user-password-policy "user password policy") then a 422 Unprocessable Entity status is returned.
+If the existing password is wrong then a 409 Conflict status is returned. If the new password does not meet the [user password policy](https://www.contensis.com/help-and-docs/apis/management-http/security/user-password-policy "user password policy") then a 422 Unprocessable Entity status is returned.

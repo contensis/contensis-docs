@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-An AssetFile type is used for the creation or update of an asset. The type is always used as a [entry](/help-and-docs/apis/management-js/model/entry) field called 'sysAssetFile'.
+An AssetFile type is used for the creation or update of an asset. The type is always used as a [entry](https://www.contensis.com/help-and-docs/apis/management-js/model/entry) field called 'sysAssetFile'.
 
 ## Properties
 
@@ -25,7 +25,7 @@ string
 
 GUID
 
-The file reference returned from an [asset file upload](/help-and-docs/apis/management-js/assets/upload-asset-file)
+The file reference returned from an [asset file upload](https://www.contensis.com/help-and-docs/apis/management-js/assets/upload-asset-file)
 
 filename
 
