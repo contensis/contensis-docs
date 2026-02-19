@@ -1,4 +1,4 @@
-If you have a multilingual license and a content type that has [additional supported languages](/help-and-docs/user-guides/content-modelling/content-types/enable-or-disable-languages-for-a-content-type), it is possible to assign language-based permissions to a role.
+If you have a multilingual license and a content type that has [additional supported languages](https://www.contensis.com/help-and-docs/user-guides/content-modelling/content-types/enable-or-disable-languages-for-a-content-type), it is possible to assign language-based permissions to a role.
 
 This is useful if you want to create roles that enable translators to manage entries in a language that is not the default project language.
 

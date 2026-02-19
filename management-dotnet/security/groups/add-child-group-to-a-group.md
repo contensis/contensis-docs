@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Security
 5.  Groups
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Adding child groups to [groups](/help-and-docs/apis/management-dotnet/model/group) can be achieved using one of the `AddGroup` overloads on either the group class, or directly from the management client without the need for a group instance.
+Adding child groups to [groups](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group) can be achieved using one of the `AddGroup` overloads on either the group class, or directly from the management client without the need for a group instance.
 
 -   [AddChildGroup(Guid parentGroupId, Guid childGroupId)](#add-child-group)
 -   [AddChildGroupAsync(Group childGroup)](#add-child-group-async)
@@ -121,7 +121,7 @@ public void AddChildGroup(Group childGroup)
 
 *childGroup*
 
-Type: [`group`](/help-and-docs/apis/management-dotnet/model/group)  
+Type: [`group`](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group)  
 The child group to add to the group.
 
 ### Examples
@@ -162,7 +162,7 @@ public async Task AddChildGroupAsync(Group childGroup)
 
 *childGroup*
 
-Type: [`group`](/help-and-docs/apis/management-dotnet/model/group)  
+Type: [`group`](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group)  
 The child group to add to the group.
 
 ### Examples

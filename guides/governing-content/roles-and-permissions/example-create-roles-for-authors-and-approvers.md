@@ -124,4 +124,4 @@ We've created two roles that give different permissions to the same content type
 
 These roles can easily be expanded to support additional content types or different permissions. When experimenting with these roles for the first time, we recommend assigning your own users to test the role and prevent any unauthorised access.
 
-For a detailed breakdown of the stages for creating a role take a look at our [roles and permissions articles](/help-and-docs/user-guides/governance/roles-and-permissions/roles-and-permissions-overview).
+For a detailed breakdown of the stages for creating a role take a look at our [roles and permissions articles](https://www.contensis.com/help-and-docs/user-guides/governance/roles-and-permissions/roles-and-permissions-overview).

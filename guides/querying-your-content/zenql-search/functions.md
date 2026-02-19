@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Querying your content](/help-and-docs/guides/querying-your-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Querying your content](https://www.contensis.com/help-and-docs/guides/querying-your-content)
 4.  ZENQL search
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 22 July 2025
 
@@ -16,7 +16,7 @@ ZenQL provides a set of built-in functions that can be used in place of static v
 
 ## Date functions
 
-Each date function generates a UTC date time value that is accurate to the millisecond. For example, the *startOfDay()* function starts from the first millisecond of the day. Date functions can be combined with [relative time periods](/help-and-docs/user-guides/zenql-search/zenql-search-relative-time-period) to provide a rich way of searching resources with minimal effort.
+Each date function generates a UTC date time value that is accurate to the millisecond. For example, the *startOfDay()* function starts from the first millisecond of the day. Date functions can be combined with [relative time periods](https://www.contensis.com/help-and-docs/user-guides/zenql-search/zenql-search-relative-time-period) to provide a rich way of searching resources with minimal effort.
 
 ### currentUser()
 

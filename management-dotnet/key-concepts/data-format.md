@@ -1,4 +1,4 @@
-The DataFormat property is used as an extension of a [DataType](/help-and-docs/apis/management-dotnet/key-concepts/data-types) to describe or identify the structure and intent of the data. For example, a [Location](/help-and-docs/apis/management-dotnet/model/location) has a DataType of *object*, and a DataFormat of *location*. Another example is a HTML block, which has a DataType of *string* and a DataFormat of *html*.
+The DataFormat property is used as an extension of a [DataType](https://www.contensis.com/help-and-docs/apis/management-dotnet/key-concepts/data-types) to describe or identify the structure and intent of the data. For example, a [Location](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/location) has a DataType of *object*, and a DataFormat of *location*. Another example is a HTML block, which has a DataType of *string* and a DataFormat of *html*.
 
 The DataFormat is a string value and is designed to allow custom types to be added.
 
@@ -10,7 +10,7 @@ DataType
 
 Description
 
-[entry](/help-and-docs/apis/management-dotnet/model/entry)
+[entry](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/entry)
 
 object
 
@@ -22,31 +22,31 @@ object
 
 An asset format that represents a file resource.
 
-[location](/help-and-docs/apis/management-dotnet/model/location)
+[location](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/location)
 
 object
 
 Represents a point on the surface of the Earth.
 
-[quote](/help-and-docs/apis/management-dotnet/model/quote)
+[quote](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/quote)
 
 object
 
 A quote with text and a source.
 
-[dateRange](/help-and-docs/apis/management-dotnet/model/daterange)
+[dateRange](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/daterange)
 
 object
 
 Represents a start and end point in time.
 
-[image](/help-and-docs/apis/management-dotnet/model/image)
+[image](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/image)
 
 object
 
 Wraps an asset with an additional caption property.
 
-[component](/help-and-docs/apis/management-dotnet/key-concepts/components).\*
+[component](https://www.contensis.com/help-and-docs/apis/management-dotnet/key-concepts/components).\*
 
 object
 
@@ -56,7 +56,7 @@ field
 
 objectArray
 
-Represents a [ComposedField](/help-and-docs/apis/management-dotnet/model/composedfield) type, defined as an `objectArray` DataType.
+Represents a [ComposedField](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/composedfield) type, defined as an `objectArray` DataType.
 
 heading
 

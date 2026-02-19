@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Modelling content](/help-and-docs/guides/modelling-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Modelling content](https://www.contensis.com/help-and-docs/guides/modelling-content)
 4.  Validation
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2024
 
@@ -19,7 +19,7 @@ A regular expression is a special text string for describing a search pattern. W
 
 ## Appearance
 
-![An example of a text field with an email address regular expression validation applied.](/image-library/resources-images/user-guides-images/regex-valdiation.x416953f1.png?q=80&f=webp)
+![An example of a text field with an email address regular expression validation applied.](https://www.contensis.com/image-library/resources-images/user-guides-images/regex-valdiation.x416953f1.png?q=80&f=webp)
 
 An example of a text field with an email address regular expression validation applied.
 

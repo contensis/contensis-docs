@@ -1,8 +1,8 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -15,7 +15,7 @@ This guide will take you through creating a content type and importing entries u
 
 ## Create a new project (optional)
 
-Projects are the home for all your content in Contensis. Either use an existing project or create a [new project](/help-and-docs/apis/management-dotnet/key-concepts/project-new "Creating a new Project") called MovieDB. You can use the default values for assets and languages. If you're creating a new project you'll need to setup a publishing server, if these aren't already setup please [ask our support team](/support) to get one up and running.
+Projects are the home for all your content in Contensis. Either use an existing project or create a [new project](https://www.contensis.com/help-and-docs/apis/management-dotnet/key-concepts/project-new "Creating a new Project") called MovieDB. You can use the default values for assets and languages. If you're creating a new project you'll need to setup a publishing server, if these aren't already setup please [ask our support team](https://www.contensis.com/support) to get one up and running.
 
 ## Create a genre taxonomy node
 
@@ -63,7 +63,7 @@ Western
 
 ## Create a movie content type
 
-You can [create a new content type](/help-and-docs/user-guides/content-modelling/content-types/create-a-content-type "Create a content type") using the content type builder. Create a new content type called *Movie* with the following fields.
+You can [create a new content type](https://www.contensis.com/help-and-docs/user-guides/content-modelling/content-types/create-a-content-type "Create a content type") using the content type builder. Create a new content type called *Movie* with the following fields.
 
 Field name
 
@@ -172,7 +172,7 @@ Copy your client ID from your API Key.
 
 <Shared Secret>
 
-Copy your shared secret from your API Key. [Create an API Key](/help-and-docs/guides/integrating-with-other-platforms/api-keys/create-an-api-key "Create an API key")
+Copy your shared secret from your API Key. [Create an API Key](https://www.contensis.com/help-and-docs/guides/integrating-with-other-platforms/api-keys/create-an-api-key "Create an API key")
 
 <Project Id>
 

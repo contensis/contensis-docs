@@ -1,6 +1,6 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Managing users](/help-and-docs/guides/managing-users)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Managing users](https://www.contensis.com/help-and-docs/guides/managing-users)
 4.  Groups
 
 Users can be automatically added to a group based on their email domain when their account is first created. A system administrator will need to set this up in the group details screen.

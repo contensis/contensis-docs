@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
-4.  [Security](/help-and-docs/apis/management-http/security)
-5.  [Groups](/help-and-docs/apis/management-http/security/groups)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
+4.  [Security](https://www.contensis.com/help-and-docs/apis/management-http/security)
+5.  [Groups](https://www.contensis.com/help-and-docs/apis/management-http/security/groups)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 20 June 2022
 
@@ -28,7 +28,7 @@ path
 
 string
 
-[group identifier](/help-and-docs/apis/management-http/security/user-and-group-identifiers)
+[group identifier](https://www.contensis.com/help-and-docs/apis/management-http/security/user-and-group-identifiers)
 
 For convenience, Group resources can be referenced by using either the group name or id
 
@@ -38,7 +38,7 @@ path
 
 string
 
-[user identifier](/help-and-docs/apis/management-http/security/user-and-group-identifiers)
+[user identifier](https://www.contensis.com/help-and-docs/apis/management-http/security/user-and-group-identifiers)
 
 For convenience, User resources can be referenced by using one of several identifiers - username, email address or Id.
 
@@ -58,25 +58,25 @@ Success - User in Group
 
 Unauthorized
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **403**
 
 Forbidden
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **404**
 
 User not in group
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **500**
 
 Internal server error
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 ## Examples
 

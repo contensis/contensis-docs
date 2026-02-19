@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Authoring and managing content](/help-and-docs/guides/authoring-and-managing-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Authoring and managing content](https://www.contensis.com/help-and-docs/guides/authoring-and-managing-content)
 4.  Entries
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -12,7 +12,7 @@ Page last updated 10 December 2024
 -   [Create an entry for a specific language](#create-an-entry-for-a-specific-language)
 -   [Adding additional language variations](#adding-additional-language-variations)
 
-You can create an entry in a language that is not the default language for your project, outside of the normal [translation workflow](/help-and-docs/user-guides/authoring/entries/translate-an-entry). This could be useful where the content is applicable only to a specific locale or you want to display a variation of a language, such as a dialect.
+You can create an entry in a language that is not the default language for your project, outside of the normal [translation workflow](https://www.contensis.com/help-and-docs/user-guides/authoring/entries/translate-an-entry). This could be useful where the content is applicable only to a specific locale or you want to display a variation of a language, such as a dialect.
 
 For a product that is available worldwide, product entries would normally be created for all languages. However, you may have a product that is specific to a country or region, where the default and other languages may not be required. In this situation, you'll need to create an entry for a specific language.
 
@@ -26,7 +26,7 @@ Creating content in specific languages requires a user to be a member of an appr
 4.  Select the required language.
 5.  A new entry will be created and the selected language variation will open for editing.
 6.  You can now populate the fields for the new language.
-7.  Press **Save** after any changes – the minor [version](/help-and-docs/user-guides/authoring/entries/entry-versioning) will increment upon each save. When you have finished, press **Submit** to send the entry for approval, or **Publish** if the workflow allows. Once approved and published the language variation will now be available through the [Delivery API](/help-and-docs/apis/all-apis), without requiring the default language.
+7.  Press **Save** after any changes – the minor [version](https://www.contensis.com/help-and-docs/user-guides/authoring/entries/entry-versioning) will increment upon each save. When you have finished, press **Submit** to send the entry for approval, or **Publish** if the workflow allows. Once approved and published the language variation will now be available through the [Delivery API](https://www.contensis.com/help-and-docs/apis/all-apis), without requiring the default language.
 
 ## Adding additional language variations
 
@@ -43,7 +43,7 @@ In this case, you'll need to locate the entry in the entry listing screen for th
 
 Although language variations are part of the same entry, each variation is independent of other languages. This is true until the default language is created and published, at which point the translation workflow activates, and language variations are no longer independent of one another.
 
-Note: The languages in which an entry can be created are determined by those which have been assigned to a project and enabled for a [content type](/help-and-docs/user-guides/content-modelling/content-types/enable-or-disable-languages-for-a-content-type "Enable or disable languages for a content type").
+Note: The languages in which an entry can be created are determined by those which have been assigned to a project and enabled for a [content type](https://www.contensis.com/help-and-docs/user-guides/content-modelling/content-types/enable-or-disable-languages-for-a-content-type "Enable or disable languages for a content type").
 
 ## On this page
 

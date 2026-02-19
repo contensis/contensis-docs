@@ -201,7 +201,7 @@ You will now need to copy the key as directed before navigating away from this s
 
 ![](/image-library/resources-images/user-guides-images/23.x68e7f644.png?q=80&f=webp)
 
-You have now completed the registration of Contensis with Azure and are now ready to [configure Contensis to use Azure AD](/help-and-docs/user-guides/user-management/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad).
+You have now completed the registration of Contensis with Azure and are now ready to [configure Contensis to use Azure AD](https://www.contensis.com/help-and-docs/user-guides/user-management/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad).
 
 ### Overview
 
@@ -379,11 +379,11 @@ You will now need to copy the key as directed before navigating away from this s
 
 ![](/image-library/resources-images/user-guides-images/23.x68e7f644.png?q=80&f=webp)
 
-You have now completed the registration of Contensis with Azure and are now ready to [configure Contensis to use Azure AD](/help-and-docs/user-guides/user-management/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad).
+You have now completed the registration of Contensis with Azure and are now ready to [configure Contensis to use Azure AD](https://www.contensis.com/help-and-docs/user-guides/user-management/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad).
 
 ## Configure Contensis to use Azure AD
 
-1.  With your [Contensis application registered in Azure AD](/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/register-contensis-with-azure-ad)**,** the next step is to login to Contensis and configure the Azure AD integration.
+1.  With your [Contensis application registered in Azure AD](https://www.contensis.com/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/register-contensis-with-azure-ad)**,** the next step is to login to Contensis and configure the Azure AD integration.
     
     1.  Login to Contensis using an administrative account.
     2.  Navigate to the *Management Console* and select **Global Settings**, you need to enter the following settings:
@@ -446,9 +446,9 @@ This needs to be set to 2 for Azure AD accounts created before October 2021, and
 
 ### Final step
 
-Our support team will need to apply these changes for you. Please [raise a help desk ticket](/help-and-docs/help-desk) to arrange this.
+Our support team will need to apply these changes for you. Please [raise a help desk ticket](https://www.contensis.com/help-and-docs/help-desk) to arrange this.
 
-Once you have [registered Contensis with Azure AD](/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/register-contensis-with-azure-ad) and set up [Azure AD in Contensis](/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad), you should see a new *Sign in with Azure AD* button on the Contensis login screen.
+Once you have [registered Contensis with Azure AD](https://www.contensis.com/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/register-contensis-with-azure-ad) and set up [Azure AD in Contensis](https://www.contensis.com/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad), you should see a new *Sign in with Azure AD* button on the Contensis login screen.
 
 ![](/image-library/resources-images/user-guides-images/adfs-contensis-login3.x3fc89e4b.png?q=80&f=webp)
 
@@ -471,11 +471,11 @@ f you are having problems logging in using Azure AD then here are some things yo
 
 ## Contensis registration with Azure AD
 
-Has Contensis been registered correctly with Azure AD? Double check that all steps have been carried out correctly in the [Register Contensis with Azure AD](/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/register-contensis-with-azure-ad) article.
+Has Contensis been registered correctly with Azure AD? Double check that all steps have been carried out correctly in the [Register Contensis with Azure AD](https://www.contensis.com/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/register-contensis-with-azure-ad) article.
 
 ## CMS settings
 
-1.  In the *Management Console* navigate to **Global Settings** and make sure that all settings have been set correctly by following the [Configure Contensis to use AD FS](/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad) article.
+1.  In the *Management Console* navigate to **Global Settings** and make sure that all settings have been set correctly by following the [Configure Contensis to use AD FS](https://www.contensis.com/help-and-docs/user-guides/environment/single-sign-on/azure-ad-single-sign-on/configure-contensis-to-use-azure-ad) article.
 2.  Double check that you can access the metadata endpoint specified in the global setting *WsFederation\_MetadataEndpoint.* To do this you can logon to the CMS server and run the following command in PowerShell:
 
 Invoke-WebRequest https://adfs.contensis.com/FederationMetadata/2007-06/FederationMetadata.xml - UseBasicParsing

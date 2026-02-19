@@ -9,7 +9,7 @@ With the content type open for editing:
 3.  Toggle the languages you want to enable.
 4.  Press **Save** and **Publish** for the additional languages to be made available for the entries in your project.
 
-Follow our article on [translating entries](/help-and-docs/user-guides/authoring/entries/translate-an-entry) to start writing content in another language.
+Follow our article on [translating entries](https://www.contensis.com/help-and-docs/user-guides/authoring/entries/translate-an-entry) to start writing content in another language.
 
 ## Disable a language
 

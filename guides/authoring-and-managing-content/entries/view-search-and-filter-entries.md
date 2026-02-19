@@ -8,7 +8,7 @@ Select **Entries** in the sidebar to open the *Entries* listing screen.
 
 If you have a large number of entries in your project, you may find it easier to use the filter panel to narrow down the number of entries displayed. The filter acts as a [faceted search](https://en.wikipedia.org/wiki/Faceted_search), building a search query based on the filters selected.
 
-The entries you see in the entries listing and the options that are present in the filter panel are reflective of user permissions, based on the [roles](/help-and-docs/user-guides/governance/roles-and-permissions/roles-and-permissions-overview) to which a user is assigned.
+The entries you see in the entries listing and the options that are present in the filter panel are reflective of user permissions, based on the [roles](https://www.contensis.com/help-and-docs/user-guides/governance/roles-and-permissions/roles-and-permissions-overview) to which a user is assigned.
 
 ### Search by keyword
 
@@ -32,7 +32,7 @@ This filter allows you to see all content belonging to specific content owners. 
 
 ### Filter by published status
 
-The published filter reduces the entries listing to either entries that are published or those that are not yet published. Those that have been published are available to the [Delivery API.](/help-and-docs/apis/delivery-http)
+The published filter reduces the entries listing to either entries that are published or those that are not yet published. Those that have been published are available to the [Delivery API.](https://www.contensis.com/help-and-docs/apis/delivery-http)
 
 ### Filter by workflow status
 

@@ -1,16 +1,16 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Tags
 5.  Tag groups
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 02 July 2025
 
@@ -42,13 +42,13 @@ Description
 
 tagGroup
 
-[`IUpdateTagGroup`](/help-and-docs/apis/management-js/model/tag-group)
+[`IUpdateTagGroup`](https://www.contensis.com/help-and-docs/apis/management-js/model/tag-group)
 
 A tag group-like object containing the required fields to update a tag group (`id`, `name` and an optional `description`)
 
 ## Returns
 
-A Promise that will resolve with the updated [Tag Group](/help-and-docs/apis/management-js/model/tag-group)
+A Promise that will resolve with the updated [Tag Group](https://www.contensis.com/help-and-docs/apis/management-js/model/tag-group)
 
 ## Remarks
 

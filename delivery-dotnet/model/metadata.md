@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 27 January 2022
 
-The Metadata type is an object container for metadata that is associated with an [Entry](/help-and-docs/apis/delivery-dotnet/model/entry). The values contained can be any type which can be accessed as either a dynamic object or cast to a specific type.
+The Metadata type is an object container for metadata that is associated with an [Entry](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry). The values contained can be any type which can be accessed as either a dynamic object or cast to a specific type.
 
 ## Properties
 

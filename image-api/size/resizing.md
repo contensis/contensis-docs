@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [Image API](/help-and-docs/apis/image-api)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [Image API](https://www.contensis.com/help-and-docs/apis/image-api)
 4.  Size
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 20 April 2023
 
@@ -40,4 +40,4 @@ When both the `width` and `height` parameters are provided, the image is resized
 
 ---
 
-**Note**: When using a width/height parameter greater than the original image width/height, the image is returned at it's original width/height value. If you are looking to upscale an image you'll need to use the [fit=contain](/help-and-docs/apis/image-api/size/fit-contain "fit-contain") parameter.
+**Note**: When using a width/height parameter greater than the original image width/height, the image is returned at it's original width/height value. If you are looking to upscale an image you'll need to use the [fit=contain](https://www.contensis.com/help-and-docs/apis/image-api/size/fit-contain "fit-contain") parameter.

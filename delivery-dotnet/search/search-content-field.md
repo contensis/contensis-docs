@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Search
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 25 September 2024
 
-When we index entry content into Elastic, a special field is generated called the *[searchContent](/help-and-docs/whats-new/breaking-changes/search)* field.  
+When we index entry content into Elastic, a special field is generated called the *[searchContent](https://www.contensis.com/help-and-docs/whats-new/breaking-changes/search)* field.  
 The field is a long string of content from all text fields in an entry, including composer content. It also includes the content from the *entryTitle* and *entryDescription* fields of linked entries.
 
 This field isn't returned by the Delivery API, as it is essentially one big string to make searching content more efficient and easier for developers.

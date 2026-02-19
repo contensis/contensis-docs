@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Entries
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 06 November 2024
 
@@ -31,19 +31,19 @@ Description
 
 entry
 
-[Entry](/help-and-docs/apis/delivery-js/model/entry)
+[Entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)
 
 An entry object containing the sys.id of the entry to resolve
 
 entryArray
 
-[Entry](/help-and-docs/apis/delivery-js/model/entry) \[...\]
+[Entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry) \[...\]
 
 An array of entry objects as above
 
 pagedListOfEntries
 
-[PagedList](/help-and-docs/apis/delivery-js/model/paged-list)<[Entry](/help-and-docs/apis/delivery-js/model/entry)\>
+[PagedList](https://www.contensis.com/help-and-docs/apis/delivery-js/model/paged-list)<[Entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)\>
 
 A paged list containing entry objects as above
 
@@ -55,7 +55,7 @@ The ids of the fields inside the entry containing linked content to resolve
 
 ## Returns
 
-A Promise that will resolve with an [Entry](/help-and-docs/apis/delivery-js/model/entry), an [Entry](/help-and-docs/apis/delivery-js/model/entry) array, or a [Paged List](/help-and-docs/apis/delivery-js/model/paged-list) of [Entry](/help-and-docs/apis/delivery-js/model/entry)
+A Promise that will resolve with an [Entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry), an [Entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry) array, or a [Paged List](https://www.contensis.com/help-and-docs/apis/delivery-js/model/paged-list) of [Entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)
 
 ## Example
 
