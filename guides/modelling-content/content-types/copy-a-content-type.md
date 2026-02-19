@@ -5,4 +5,4 @@ If you find yourself needing to produce a content type that is very similar to a
 3.  Press **Copy** from the menu.
 4.  The content type will be copied and opened for editing. The new content type will have '*\- copy*' appended to its name.
 5.  You'll need to update the content type name and API ID for your new component.
-6.  Edit and update your content type by [adding](/help-and-docs/user-guides/content-modelling/content-types/add-fields-to-a-content-type) or [removing fields](/help-and-docs/user-guides/content-modelling/content-types/remove-fields-from-a-content-type).
+6.  Edit and update your content type by [adding](https://www.contensis.com/help-and-docs/user-guides/content-modelling/content-types/add-fields-to-a-content-type) or [removing fields](https://www.contensis.com/help-and-docs/user-guides/content-modelling/content-types/remove-fields-from-a-content-type).

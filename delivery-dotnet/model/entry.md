@@ -1,4 +1,4 @@
-A full [overview of entries can be found here](/help-and-docs/guides/authoring-and-managing-content/entries/overview "Entries").
+A full [overview of entries can be found here](https://www.contensis.com/help-and-docs/guides/authoring-and-managing-content/entries/overview "Entries").
 
 An entry definition in the Delivery API contains a mixture of standard properties and properties that have been defined by the content type that an entry is based on.
 
@@ -48,7 +48,7 @@ A list of available languages for the entry.
 
 Version
 
-[VersionInfo](/help-and-docs/apis/delivery-dotnet/model/versioninfo)
+[VersionInfo](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/versioninfo)
 
 Version information for the entry.
 
@@ -84,7 +84,7 @@ All the locations for the entry, including the canonical URI.
 
 Workflow
 
-[EntryWorkflow](/help-and-docs/apis/delivery-dotnet/model/entry-workflow)
+[EntryWorkflow](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry-workflow)
 
 The current workflow details for the entry.
 
@@ -100,19 +100,19 @@ Returns
 
 Description
 
-[Get(string fieldName, bool autoResolve)](/help-and-docs/apis/delivery-dotnet/model/entry-methods "Entry methods")
+[Get(string fieldName, bool autoResolve)](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry-methods "Entry methods")
 
 dynamic
 
 Gets a field item by name and returns a dynamic object.
 
-[Get<Type>(string fieldName, bool autoResolve)](/help-and-docs/apis/delivery-dotnet/model/entry-methods "Entry methods")
+[Get<Type>(string fieldName, bool autoResolve)](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry-methods "Entry methods")
 
 <Type>
 
 Gets a field item by name and attempts to cast to the specified generic type.
 
-[HasValue(string fieldName)](/help-and-docs/apis/delivery-dotnet/model/entry-methods "Entry methods")
+[HasValue(string fieldName)](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry-methods "Entry methods")
 
 bool
 

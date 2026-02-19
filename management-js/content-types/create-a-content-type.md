@@ -1,4 +1,4 @@
-Creates a new content type resource from a [ContentType](/help-and-docs/apis/management-js/model/content-type) object passed as an argument.
+Creates a new content type resource from a [ContentType](https://www.contensis.com/help-and-docs/apis/management-js/model/content-type) object passed as an argument.
 
 ***create(contentType: ContentType): Promise<ContentType>***
 
@@ -104,4 +104,4 @@ Non-unique id
 
 The content type must be unique for the project.
 
-If the *defaultLanguage* value is not included in the *supportedLanguages* array then it will automatically be added by the service when the project is created. Additionally, if the *defaultLanguage* is not specified then the [Project](/help-and-docs/apis/management-js/model/project) *primaryLanguage* will be automatically set as the value by the service.
+If the *defaultLanguage* value is not included in the *supportedLanguages* array then it will automatically be added by the service when the project is created. Additionally, if the *defaultLanguage* is not specified then the [Project](https://www.contensis.com/help-and-docs/apis/management-js/model/project) *primaryLanguage* will be automatically set as the value by the service.

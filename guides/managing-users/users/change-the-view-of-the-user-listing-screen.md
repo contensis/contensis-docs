@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Managing users](/help-and-docs/guides/managing-users)
-4.  [Users](/help-and-docs/guides/managing-users/users)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Managing users](https://www.contensis.com/help-and-docs/guides/managing-users)
+4.  [Users](https://www.contensis.com/help-and-docs/guides/managing-users/users)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 05 January 2026
 

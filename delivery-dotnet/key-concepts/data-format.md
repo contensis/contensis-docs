@@ -1,4 +1,4 @@
-The Data Format property is used as an extension of a [DataType](/help-and-docs/apis/delivery-dotnet/key-concepts/data-types "data-types") to describe or identify the structure and intent of the data. For example, a [Location](/help-and-docs/apis/delivery-dotnet/model/location) has a DataType of *object*, and a DataFormat of *location*. Another example is a HTML block, which has a DataType of *string* and a DataFormat of *html*.
+The Data Format property is used as an extension of a [DataType](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/key-concepts/data-types "data-types") to describe or identify the structure and intent of the data. For example, a [Location](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/location) has a DataType of *object*, and a DataFormat of *location*. Another example is a HTML block, which has a DataType of *string* and a DataFormat of *html*.
 
 The DataFormat is a string value and is designed to allow custom types to be added.
 
@@ -10,37 +10,37 @@ Data type
 
 Description
 
-[entry](/help-and-docs/apis/delivery-dotnet/model/entry)
+[entry](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry)
 
 object
 
 An entry format for storing content.
 
-[asset](/help-and-docs/apis/delivery-dotnet/model/asset)
+[asset](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/asset)
 
 object
 
 An asset format that represents a file resource.
 
-[location](/help-and-docs/apis/delivery-dotnet/model/location)
+[location](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/location)
 
 object
 
 Represents a point on the surface of the Earth.
 
-[quote](/help-and-docs/apis/delivery-dotnet/model/quote)
+[quote](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/quote)
 
 object
 
 A quote with text and a source.
 
-[dateRange](/help-and-docs/apis/delivery-dotnet/model/daterange)
+[dateRange](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/daterange)
 
 object
 
 Represents a start and end point in time.
 
-[image](/help-and-docs/apis/delivery-dotnet/model/image)
+[image](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/image)
 
 object
 
@@ -50,7 +50,7 @@ field
 
 objectArray
 
-Represents a [composed](/help-and-docs/apis/delivery-dotnet/model/composed) type, defined as an `objectArray` Data Type.
+Represents a [composed](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/composed) type, defined as an `objectArray` Data Type.
 
 heading
 

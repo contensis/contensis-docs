@@ -14,7 +14,7 @@ message
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 A message to be displyed in the Contensis UI if the validation fails.
 

@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Integrating with other platforms](/help-and-docs/guides/integrating-with-other-platforms)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Integrating with other platforms](https://www.contensis.com/help-and-docs/guides/integrating-with-other-platforms)
 4.  Webhooks
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 02 October 2024
 

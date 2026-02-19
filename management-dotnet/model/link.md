@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 26 April 2022
 
@@ -32,7 +32,7 @@ The id of the entry or asset.
 
 *language*
 
-Type: `string` \[[LanguageCode](/help-and-docs/apis/management-dotnet/key-concepts/localization)\]  
+Type: `string` \[[LanguageCode](https://www.contensis.com/help-and-docs/apis/management-dotnet/key-concepts/localization)\]  
 \[Optional\] The language variation of the asset to target.
 
 ---
@@ -58,7 +58,7 @@ The id of the image asset.
 
 *language*
 
-Type: `string` \[[LanguageCode](/help-and-docs/apis/management-dotnet/key-concepts/localization)\]  
+Type: `string` \[[LanguageCode](https://www.contensis.com/help-and-docs/apis/management-dotnet/key-concepts/localization)\]  
 \[Optional\] The language variation of the asset to target.
 
 #### Properties

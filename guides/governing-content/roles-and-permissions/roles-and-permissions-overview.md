@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Governing content](/help-and-docs/guides/governing-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Governing content](https://www.contensis.com/help-and-docs/guides/governing-content)
 4.  Roles and permissions
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 26 June 2025
 
@@ -11,7 +11,7 @@ Permissions to create and manage a Contensis resource are determined by user bei
 
 ## System group permissions
 
-The following system groups give global permission for the resource across all projects in a Contensis instance. They are outlined below, and in more detail in our [Contensis system groups](/help-and-docs/guides/managing-users/groups/contensis-system-groups) article.
+The following system groups give global permission for the resource across all projects in a Contensis instance. They are outlined below, and in more detail in our [Contensis system groups](https://www.contensis.com/help-and-docs/guides/managing-users/groups/contensis-system-groups) article.
 
 -   System Administrators
 -   API Key Administrators

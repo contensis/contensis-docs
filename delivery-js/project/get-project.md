@@ -1,6 +1,6 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Project
 
 Call the project.get() method in our delivery client to get the current project
@@ -15,7 +15,7 @@ get(): Promise<Project>
 
 ### Returns
 
-A Promise that will resolve with the [Project](/help-and-docs/apis/delivery-js/model/project)
+A Promise that will resolve with the [Project](https://www.contensis.com/help-and-docs/apis/delivery-js/model/project)
 
 ### Example
 

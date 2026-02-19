@@ -28,4 +28,4 @@ You can update the label of an existing tag at any time:
 
 ## Translate tags
 
-If you have a multilingual project, you can also update the labels for other available languages from the same edit screen. This ensures tags are clearly understood across different language versions of your content. You can also [bulk translate tags](/help-and-docs/guides/authoring-and-managing-content/tags/bulk-translate-tags-for-multilingual-content) using the translation editor.
+If you have a multilingual project, you can also update the labels for other available languages from the same edit screen. This ensures tags are clearly understood across different language versions of your content. You can also [bulk translate tags](https://www.contensis.com/help-and-docs/guides/authoring-and-managing-content/tags/bulk-translate-tags-for-multilingual-content) using the translation editor.

@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Key concepts
 5.  Nodes
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 01 April 2022
 
-Requesting an individual [node](/help-and-docs/apis/management-dotnet/model/node) can be achieved by using one of the following methods.
+Requesting an individual [node](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/node) can be achieved by using one of the following methods.
 
 -   [Get(Guid id)](#get-by-guid-id)
 -   [Get(string id)](#get-by-string-id)

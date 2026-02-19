@@ -1,4 +1,4 @@
-In order for an API key to access resources in your project you'll need to assign an API key to a role. If you have not created an API key you can follow our [article](/help-and-docs/user-guides/environment/api-keys/create-an-api-key) to create one.
+In order for an API key to access resources in your project you'll need to assign an API key to a role. If you have not created an API key you can follow our [article](https://www.contensis.com/help-and-docs/user-guides/environment/api-keys/create-an-api-key) to create one.
 
 With your role opened for editing:
 

@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 09 December 2024
 
@@ -45,16 +45,16 @@ DefaultVersionStatus
 
 VersionStatus
 
-The default version to pass for all [Entry](/help-and-docs/apis/delivery-dotnet/model/entry) requests
+The default version to pass for all [Entry](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry) requests
 
 ClientId
 
 string
 
-The client id value obtained from [API key management](/help-and-docs/guides/integrating-with-other-platforms/api-keys/api-key-overview "API Keys")
+The client id value obtained from [API key management](https://www.contensis.com/help-and-docs/guides/integrating-with-other-platforms/api-keys/api-key-overview "API Keys")
 
 SharedSecret
 
 string
 
-The shared secret value obtained from [API key management](/help-and-docs/guides/integrating-with-other-platforms/api-keys/api-key-overview "API Keys")
+The shared secret value obtained from [API key management](https://www.contensis.com/help-and-docs/guides/integrating-with-other-platforms/api-keys/api-key-overview "API Keys")

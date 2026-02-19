@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Search
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 27 January 2022
 
@@ -46,7 +46,7 @@ var query = new Query
 
 As can be seen from the following results, this lends a higher relevance to titles with a higher ratio of the term ‘earth’:
 
-![Weighting title query](/image-library/resources-images/developer-documentation-images/weighting-title-query.x7d603d56.png?q=80&f=webp)
+![Weighting title query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/weighting-title-query.x7d603d56.png?q=80&f=webp)
 
 However, what can also be seen is the fact that ‘title’ fields with higher ratios of the term do not guarantee higher relevance. This is due to the cumulative effect of scoring across terms and operators, meaning the total relevance of the result can also be affected by the relevance of the other fields which have been searched across.
 
@@ -73,7 +73,7 @@ var query = new Query
 
 Yields the following results:
 
-![Weighting tagline query](/image-library/resources-images/developer-documentation-images/weighting-tagline-query.xe5b8274d.png?q=80&f=webp)
+![Weighting tagline query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/weighting-tagline-query.xe5b8274d.png?q=80&f=webp)
 
 Finally, weighting the ‘overview’ field:
 
@@ -98,7 +98,7 @@ var query = new Query
 
 Results in:
 
-![Weighting overview query](/image-library/resources-images/developer-documentation-images/weighting-overview-query.x0342ffdc.png?q=80&f=webp)
+![Weighting overview query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/weighting-overview-query.x0342ffdc.png?q=80&f=webp)
 
 As can be seen, weighting can help in providing relevance to your results, but is not a guarantee of specific ordering.
 
@@ -129,7 +129,7 @@ var query = new Query
 
 However, as can be seen from the results, this also retrieves movies which are not thrillers, but are apparently exciting and/or tense:
 
-![Non-weighted terms query](/image-library/resources-images/developer-documentation-images/non-weighted-terms-query.xf13270bb.png?q=80&f=webp)
+![Non-weighted terms query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/non-weighted-terms-query.xf13270bb.png?q=80&f=webp)
 
 We can favour ‘thrillers’ by adding weighting to the query as follows:
 
@@ -154,7 +154,7 @@ var query = new Query
 
 The query will now favour ‘thrillers’ over other movie results as can be seen in the following:
 
-![Thriller weighted terms query](/image-library/resources-images/developer-documentation-images/thriller-weighted-terms-query.x1391c159.png?q=80&f=webp)
+![Thriller weighted terms query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/thriller-weighted-terms-query.x1391c159.png?q=80&f=webp)
 
 However, ‘exciting’ and ‘tense’ are still not favoured over other results. By also weighting these queries, we can push them to the top:
 
@@ -179,7 +179,7 @@ var query = new Query
 
 As can be seen from the results:
 
-![All weighted terms query](/image-library/resources-images/developer-documentation-images/all-weighted-terms-query.x31ef2d0e.png?q=80&f=webp)
+![All weighted terms query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/all-weighted-terms-query.x31ef2d0e.png?q=80&f=webp)
 
 Please note the different weights for ‘thriller’, ‘exciting’ and ‘tense’: this difference is required in order to prevent the weightings negating each other. For example:
 
@@ -204,7 +204,7 @@ var query = new Query
 
 As can be seen from the results, weighting each of these terms identically negates the effect, producing the same result as the non-weighted query:
 
-![All equally weighted terms query](/image-library/resources-images/developer-documentation-images/all-equally-weighted-terms-query.x903b9d7d.png?q=80&f=webp)
+![All equally weighted terms query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/all-equally-weighted-terms-query.x903b9d7d.png?q=80&f=webp)
 
 ## Query Structure
 
@@ -238,7 +238,7 @@ var query = new Query
 
 This yields the following results:
 
-![Structured field query](/image-library/resources-images/developer-documentation-images/structured-field-query.xcc45f6ec.png?q=80&f=webp)
+![Structured field query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/structured-field-query.xcc45f6ec.png?q=80&f=webp)
 
 However, this does not produce the same results as those of the weighted example.
 
@@ -270,7 +270,7 @@ var query = new Query
 
 As you can see from the results, this pushes the exciting and tense thrillers to the top of the results, while also removing any movies which are not also thrillers:
 
-![Structured term query](/image-library/resources-images/developer-documentation-images/structured-term-query.x982b1641.png?q=80&f=webp)
+![Structured term query](https://www.contensis.com/image-library/resources-images/developer-documentation-images/structured-term-query.x982b1641.png?q=80&f=webp)
 
 **NOTE: Other Terms**  
 Query weighting will have no effect on the ordering of the results of the following queries:

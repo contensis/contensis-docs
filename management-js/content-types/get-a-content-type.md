@@ -1,21 +1,21 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Content types
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
 ## Get a content type
 
-Gets an existing content type by the content type id or by passing a [ContentTypeGetOptions](/help-and-docs/apis/management-js/model/content-type-get-options) object as an argument.
+Gets an existing content type by the content type id or by passing a [ContentTypeGetOptions](https://www.contensis.com/help-and-docs/apis/management-js/model/content-type-get-options) object as an argument.
 
 ***get(idOrOptions: string | ContentTypeGetOptions): Promise<ContentType>***
 
 ### Returns
 
-A Promise that will resolve with a [ContentType](/help-and-docs/apis/management-js/model/content-type) object.
+A Promise that will resolve with a [ContentType](https://www.contensis.com/help-and-docs/apis/management-js/model/content-type) object.
 
 ### Example
 

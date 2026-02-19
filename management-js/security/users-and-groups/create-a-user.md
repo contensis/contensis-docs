@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Security
 5.  Users and groups
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Creates a new user resource from a [User](/help-and-docs/apis/management-js/model/user) object passed as an argument.
+Creates a new user resource from a [User](https://www.contensis.com/help-and-docs/apis/management-js/model/user) object passed as an argument.
 
 ***create(user: User): Promise<User>***
 
