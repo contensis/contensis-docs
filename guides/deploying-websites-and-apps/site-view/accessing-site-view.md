@@ -1,0 +1,3 @@
+The Site View screen is restricted to users that are a member of a role with a [Site View permission](/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) applied. You can also provide administration access to the Site View screen by adding users to the *Site View Administrators* security group.
+
+To open Site View, select the **Site View** button in the sidebar.
