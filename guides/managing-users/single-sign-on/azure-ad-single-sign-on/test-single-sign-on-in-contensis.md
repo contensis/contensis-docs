@@ -1,4 +1,4 @@
-1.  Once you have [configured](/help-and-docs/guides/managing-users/single-sign-on/overview) your AD FS server and set up [AD FS in Contensis](/help-and-docs/guides/managing-users/single-sign-on/overview), you should see a new **Sign in with AD FS** button on the Contensis login screen.
+1.  Once you have [configured](https://www.contensis.com/help-and-docs/guides/managing-users/single-sign-on/overview) your AD FS server and set up [AD FS in Contensis](https://www.contensis.com/help-and-docs/guides/managing-users/single-sign-on/overview), you should see a new **Sign in with AD FS** button on the Contensis login screen.
 
 ![](/image-library/resources-images/user-guides-images/adfs-17.x0c6c5af8.png?q=80&f=webp)
 

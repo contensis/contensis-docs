@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 16 December 2025
 
@@ -57,7 +57,7 @@ The client ID and shared secret are obtained from the API Key in the CMS. They c
 
 ### API initialization example
 
-This example demonstrates how the default configuration can be set using the [ManagementClientConfiguration](/help-and-docs/apis/management-dotnet/model/managementclientconfiguration) type.
+This example demonstrates how the default configuration can be set using the [ManagementClientConfiguration](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/managementclientconfiguration) type.
 
 C#
 

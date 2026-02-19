@@ -36,7 +36,7 @@ displayName
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The localised displayName of the node
 
@@ -44,7 +44,7 @@ slug
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The localised name of the node in slug format. Automatically created from the relevant title variation if not provided. Must be in slug format if provided as a value
 

@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -75,11 +75,11 @@ The default configuration becomes effective for all ContensisClient instantiatio
 
 This is a useful feature for websites that are created using a .NET based framework such as NancyFx or Asp.net MVC.
 
-The client ID and shared secret are obtained from [API key management](/help-and-docs/guides/integrating-with-other-platforms/api-keys/api-key-overview "API Keys"). They can then be used to call the security service to obtain a claims-based bearer token, and to validate that the user can access resources from the service.
+The client ID and shared secret are obtained from [API key management](https://www.contensis.com/help-and-docs/guides/integrating-with-other-platforms/api-keys/api-key-overview "API Keys"). They can then be used to call the security service to obtain a claims-based bearer token, and to validate that the user can access resources from the service.
 
 ### API initialisation example
 
-This example demonstrates how the default configuration can be set using the [ContensisClientConfiguration](/help-and-docs/apis/delivery-dotnet/model/contensisclientconfiguration) type.
+This example demonstrates how the default configuration can be set using the [ContensisClientConfiguration](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/contensisclientconfiguration) type.
 
 C#
 

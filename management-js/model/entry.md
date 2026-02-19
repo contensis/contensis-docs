@@ -1,4 +1,4 @@
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 09 December 2024
 
@@ -84,7 +84,7 @@ language
 
 string
 
-[Language code](/help-and-docs/apis/management-js/localization)
+[Language code](https://www.contensis.com/help-and-docs/apis/management-js/localization)
 
 The language code of the entry variation.
 
@@ -108,7 +108,7 @@ version
 
 object
 
-[Version](/help-and-docs/apis/management-js/model/version)
+[Version](https://www.contensis.com/help-and-docs/apis/management-js/model/version)
 
 Version info specific to the entry variation.
 

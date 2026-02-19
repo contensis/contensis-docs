@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Security
 5.  Users and groups
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 09 March 2022
 
-A user can update their password with a call that includes a new password and the user's current password in a parameter defined in [UserUpdatePasswordOptions](/help-and-docs/apis/management-js/model/user-update-password-options).  
+A user can update their password with a call that includes a new password and the user's current password in a parameter defined in [UserUpdatePasswordOptions](https://www.contensis.com/help-and-docs/apis/management-js/model/user-update-password-options).  
 A member of the *System Administrators* group can update the password without the need to provide the existing password.
 
 ***updatePassword(options: UserUpdatePasswordOptions): Promise<void>***

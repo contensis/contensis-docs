@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Modelling content](/help-and-docs/guides/modelling-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Modelling content](https://www.contensis.com/help-and-docs/guides/modelling-content)
 4.  Field editors
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -21,23 +21,23 @@ Setting name
 
 Summary
 
-[Name](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Name](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 A text label to identify the field in an entry.
 
-[Field ID](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Field ID](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 A sanitised name to be used by the API.
 
-[Default value](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Default value](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 The default value allows you to set the default location for an entry.
 
-[Read only](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Read only](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 Prevents authors from editing the field in the entry editor.
 
-[Allow multiple items to be added](/help-and-docs/user-guides/content-modelling/repeatable-fields/repeatable-field-overview)
+[Allow multiple items to be added](https://www.contensis.com/help-and-docs/user-guides/content-modelling/repeatable-fields/repeatable-field-overview)
 
 Sets the field to be repeatable, allowing an author to create a list of items.
 
@@ -53,15 +53,15 @@ Property name
 
 Summary
 
-[Content guidelines](/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
+[Content guidelines](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
 
 Provides guidance to an author for the expected content that the field should contain.
 
-[Size](/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
+[Size](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
 
 Determines the size of the rendered editor in the entry editor. The default value is set to *Medium*.
 
-[Field visibility](/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
+[Field visibility](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
 
 Determines if the field should be displayed in the collapsed state when opening the entry editor.
 

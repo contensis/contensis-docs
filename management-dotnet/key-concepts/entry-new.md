@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Creating a new [entry](/help-and-docs/apis/management-dotnet/model/entry) can be achieved by using one of the `New` method overloads.
+Creating a new [entry](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/entry) can be achieved by using one of the `New` method overloads.
 
 -   [New(string contentTypeId)](#new-with-content-type)
 -   [New(string contentTypeId, string language)](#new-with-content-type-and-language)

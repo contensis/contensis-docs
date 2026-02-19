@@ -52,7 +52,7 @@ With the appropriate trusts and claims setup on your [AD FS server](#configure-y
 **Note**: This must be accessible from your Contensis server.
 
 4.  Set the *WsFederation\_Type* setting to 1.
-5.  Once you have completed the above steps. Please [raise a help desk ticket](/help-and-docs/help-desk) as our support team will need to restart the application.
+5.  Once you have completed the above steps. Please [raise a help desk ticket](https://www.contensis.com/help-and-docs/help-desk) as our support team will need to restart the application.
 
 This article outlines the process of configuring your AD FS services on your Windows server to add the necessary trusts and claims for Contensis to integrate with your organisations single sign-on service.
 

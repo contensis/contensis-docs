@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
@@ -15,19 +15,19 @@ An entry's life-cycle is controlled by the workflow assigned to the content type
 
 Allows content to be authored and then published instantly.
 
-![Basic workflow](/image-library/resources-images/developer-documentation-images/basic-workflow.x8cd8e7f9.png?q=80&f=webp)
+![Basic workflow](https://www.contensis.com/image-library/resources-images/developer-documentation-images/basic-workflow.x8cd8e7f9.png?q=80&f=webp)
 
 ### Approval workflow
 
 Allows content to be submitted for approval so that it is controlled by an authorised approver before it is made live.
 
-![Approval workflow](/image-library/resources-images/developer-documentation-images/approval-workflow.x70f20142.png?q=80&f=webp)
+![Approval workflow](https://www.contensis.com/image-library/resources-images/developer-documentation-images/approval-workflow.x70f20142.png?q=80&f=webp)
 
 Entries are by default controlled by the *basic* workflow, but this can be changed by specifying a different workflow type in the content type editing screen.
 
 ## Workflow specific methods
 
-We have created some [useful workflow extension methods](/help-and-docs/apis/management-dotnet/model/workflowExtensions) which offer shortcuts for events in our standard workflows. Alternatively you can use the more generic Workflow.Invoke / Workflow.InvokeAsync methods.
+We have created some [useful workflow extension methods](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/workflowExtensions) which offer shortcuts for events in our standard workflows. Alternatively you can use the more generic Workflow.Invoke / Workflow.InvokeAsync methods.
 
 ## Invoking events generically
 

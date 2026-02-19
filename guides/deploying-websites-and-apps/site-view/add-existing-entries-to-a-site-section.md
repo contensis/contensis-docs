@@ -1,4 +1,4 @@
-If you have existing entries that you'd like to add to an area of your site, you can assign multiple entries to a section within the Site View screen. This is great if you want to add news, events, or blogs to an area of your site in bulk. You'll need to be a member of a role with Create node and [Manage entries permission](/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) for the required content type to add entries to a site section.
+If you have existing entries that you'd like to add to an area of your site, you can assign multiple entries to a section within the Site View screen. This is great if you want to add news, events, or blogs to an area of your site in bulk. You'll need to be a member of a role with Create node and [Manage entries permission](https://www.contensis.com/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) for the required content type to add entries to a site section.
 
 1.  Select **Site View** in the sidebar to manage your site structure and content.
 2.  With *Site View* open, use the tree to navigate to the node in your site where you'd like to add entries.

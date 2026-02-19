@@ -1,4 +1,4 @@
-An entry definition in the Management API contains a mixture of standard properties and properties that have been defined by the content type that an [entry](/help-and-docs/user-guides/authoring/entries "Entries") is based on.
+An entry definition in the Management API contains a mixture of standard properties and properties that have been defined by the content type that an [entry](https://www.contensis.com/help-and-docs/user-guides/authoring/entries "Entries") is based on.
 
 These are the standard properties that all entries have. An entry can have multiple language variations, which can be be edited, versioned and published independently. A single language variation is available for an entry at any one time.
 
@@ -52,7 +52,7 @@ A list of languages which the entry can be translated to but have yet to be comp
 
 Version
 
-[VersionInfo](/help-and-docs/apis/management-dotnet/model/versioninfo ".NET Management API – VersionInfo ")
+[VersionInfo](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/versioninfo ".NET Management API – VersionInfo ")
 
 Version information for the entry.
 
@@ -76,7 +76,7 @@ The id of the entry owner.
 
 Workflow
 
-[Workflow](/help-and-docs/apis/management-dotnet/model/workflow ".NET Management API – Workflow")
+[Workflow](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/workflow ".NET Management API – Workflow")
 
 The current workflow details for the entry.
 

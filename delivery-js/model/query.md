@@ -1,15 +1,15 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 29 May 2025
 
@@ -19,7 +19,7 @@ Page last updated 29 May 2025
 -   [Parameters](#parameters)
 -   [Returns](#returns)
 
-A Query allows us to provide a nested structure of expressions (as [Operators](/help-and-docs/apis/delivery-js/entries/search/query-operators)) that contain criteria that we can use with the `entries.search()` method in a Delivery API client. The returned object allows us to add additional refinements to the search before the request for content is made, such as specifying the pageIndex, the ordering of results, or which fields to return.
+A Query allows us to provide a nested structure of expressions (as [Operators](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/query-operators)) that contain criteria that we can use with the `entries.search()` method in a Delivery API client. The returned object allows us to add additional refinements to the search before the request for content is made, such as specifying the pageIndex, the ordering of results, or which fields to return.
 
 ### Call signature
 
@@ -39,7 +39,7 @@ Description
 
 whereExpressions
 
-`[Operators](/help-and-docs/apis/delivery-js/entries/search/query-operators)[]`
+`[Operators](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/query-operators)[]`
 
 An array of search expressions constructed as Operators
 
@@ -57,7 +57,7 @@ Description
 
 where
 
-[`WhereExpression`](/help-and-docs/apis/delivery-js/entries/search/search-basics)
+[`WhereExpression`](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/search-basics)
 
 Read or refine query expressions
 
@@ -75,7 +75,7 @@ The index of subsequent pages of search results (required if > 0)
 
 orderBy
 
-`string | string[] | [OrderBy](/help-and-docs/apis/delivery-js/entries/search/search-basics)`
+`string | string[] | [OrderBy](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/search-basics)`
 
 Sort search results by one or more content fields
 

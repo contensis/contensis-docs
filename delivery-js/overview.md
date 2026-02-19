@@ -6,11 +6,11 @@ The API is a RESTful service to ensure maximum compatibility, delivering content
 
 ## Key concepts
 
--   [Install and register the Client](/help-and-docs/apis/delivery-js/key-concepts/api-instantiation)
--   [Get a single project](/help-and-docs/apis/delivery-js/project/get-project)
--   [Get a single content type](/help-and-docs/apis/delivery-js/content-types/get-contenttype)
--   [Get a single entry](/help-and-docs/apis/delivery-js/entries/get-entry)
--   [Get a list of entries](/help-and-docs/apis/delivery-js/entries/list-entries)
--   [Search for entries with a Query](/help-and-docs/apis/delivery-js/entries/search/search-basics)
--   [Search for entries with ZenQL](/help-and-docs/apis/delivery-js/entries/search/zenql-search)
--   [Getting nodes](/help-and-docs/apis/delivery-js/nodes/get-nodes)
+-   [Install and register the Client](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/api-instantiation)
+-   [Get a single project](https://www.contensis.com/help-and-docs/apis/delivery-js/project/get-project)
+-   [Get a single content type](https://www.contensis.com/help-and-docs/apis/delivery-js/content-types/get-contenttype)
+-   [Get a single entry](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/get-entry)
+-   [Get a list of entries](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/list-entries)
+-   [Search for entries with a Query](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/search-basics)
+-   [Search for entries with ZenQL](https://www.contensis.com/help-and-docs/apis/delivery-js/entries/search/zenql-search)
+-   [Getting nodes](https://www.contensis.com/help-and-docs/apis/delivery-js/nodes/get-nodes)

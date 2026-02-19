@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 03 May 2022
 
-Creating a new [asset](/help-and-docs/apis/management-dotnet/model/asset) can be achieved by using one of the `NewAsset` method overloads. Updating an asset's file can be achieved using one the of the SetFile methods overloads of an [entry](/help-and-docs/apis/management-dotnet/model/entry-methods). It is not possible to have a file upload larger than 2GB, though depending on your connection speed to the CMS, your upload may time out before reaching that limit.
+Creating a new [asset](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/asset) can be achieved by using one of the `NewAsset` method overloads. Updating an asset's file can be achieved using one the of the SetFile methods overloads of an [entry](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/entry-methods). It is not possible to have a file upload larger than 2GB, though depending on your connection speed to the CMS, your upload may time out before reaching that limit.
 
 NOTE  
 The language of the asset will be determined by the language of the target folder in Contensis.

@@ -7,7 +7,7 @@ With a content type open for editing:
 
 ## Supported fields
 
-The following fields can be set to repeatable when [creating](/help-and-docs/user-guides/content-modelling/content-types/create-a-content-type) or updating a [content type:](/help-and-docs/user-guides/content-modelling/content-types/content-types-overview)
+The following fields can be set to repeatable when [creating](https://www.contensis.com/help-and-docs/user-guides/content-modelling/content-types/create-a-content-type) or updating a [content type:](https://www.contensis.com/help-and-docs/user-guides/content-modelling/content-types/content-types-overview)
 
 -   Text
 -   Markup

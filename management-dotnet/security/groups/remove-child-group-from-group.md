@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Security
 5.  Groups
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Removing child [groups](/help-and-docs/apis/management-dotnet/model/group) from groups can be achieved using one of the `RemoveChildGroup` overloads on either the group class, or directly from the management client without the need for a group instance.
+Removing child [groups](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group) from groups can be achieved using one of the `RemoveChildGroup` overloads on either the group class, or directly from the management client without the need for a group instance.
 
 -   [RemoveChildGroup(Guid parentGroupId, Group childGroupId)](#remove-child-group)
 -   [RemoveChildGroupAsync(Guid parentGroupId, Group childGroupId)](#remove-child-group-async)
@@ -125,7 +125,7 @@ public void RemoveChildGroup(Group childGroup)
 
 *childGroup*
 
-Type: [`group`](/help-and-docs/apis/management-dotnet/model/group)  
+Type: [`group`](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group)  
 The child group to remove from the group.
 
 ### Examples
@@ -166,7 +166,7 @@ public async Task RemoveChildGroupAsync(Group childGroup)
 
 *childGroup*
 
-Type: [`group`](/help-and-docs/apis/management-dotnet/model/group)  
+Type: [`group`](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group)  
 The child group to remove from the group.
 
 ### Examples

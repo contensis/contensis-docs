@@ -1,4 +1,4 @@
-An asset is an extension of an [entry](/help-and-docs/apis/delivery-dotnet/model/entry), with pre-defined fields and additional properties containing details about the file they represent. An asset is an entry with a dataFormat value equal to *asset*, which allows them to be identified and queried independently to entries.
+An asset is an extension of an [entry](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/entry), with pre-defined fields and additional properties containing details about the file they represent. An asset is an entry with a dataFormat value equal to *asset*, which allows them to be identified and queried independently to entries.
 
 ### Standard
 
@@ -24,7 +24,7 @@ An array of keyword assigned to the asset
 
 thumbnail
 
-[Asset](/help-and-docs/apis/delivery-dotnet/model/asset)
+[Asset](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/asset)
 
 The thumbnail link for the asset
 

@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Managing users](/help-and-docs/guides/managing-users)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Managing users](https://www.contensis.com/help-and-docs/guides/managing-users)
 4.  Groups
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -28,8 +28,8 @@ The search query also takes into account any filters that are applied, such as *
 
 There are three group types in Contensis that can be used to filter the listing:
 
--   **Contensis** groups are created using the [New group](/help-and-docs/user-guides/user-management/groups/create-a-new-group) option.
--   **External** groups are created automatically by a single sign-on service such as [Azure AD](/help-and-docs/user-guides/user-management/single-sign-on/azure-ad-single-sign-on) or [AD FS.](/help-and-docs/guides/managing-users/single-sign-on/adfs-single-sign-on)
+-   **Contensis** groups are created using the [New group](https://www.contensis.com/help-and-docs/user-guides/user-management/groups/create-a-new-group) option.
+-   **External** groups are created automatically by a single sign-on service such as [Azure AD](https://www.contensis.com/help-and-docs/user-guides/user-management/single-sign-on/azure-ad-single-sign-on) or [AD FS.](https://www.contensis.com/help-and-docs/guides/managing-users/single-sign-on/adfs-single-sign-on)
 -   **System** groups are Contensis groups that provide access to specific CMS resources.
 
 ### Filter by assignment
