@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Delivery API](/help-and-docs/apis/delivery-http)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-http)
 4.  key-concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 25 September 2024
 
-An entry can link to other entries or assets as [entry](/help-and-docs/apis/delivery-http/content/entry), [asset](/help-and-docs/apis/delivery-http/content/fields/asset) or [image](/help-and-docs/apis/delivery-http/content/fields/image) field types. They can be defined as standard entry fields or as a [composed](/help-and-docs/apis/delivery-http/content/fields/composed-field) field type in the content type. These link objects can be singular or arrays of links of the same content type e.g. Actors.
+An entry can link to other entries or assets as [entry](https://www.contensis.com/help-and-docs/apis/delivery-http/content/entry), [asset](https://www.contensis.com/help-and-docs/apis/delivery-http/content/fields/asset) or [image](https://www.contensis.com/help-and-docs/apis/delivery-http/content/fields/image) field types. They can be defined as standard entry fields or as a [composed](https://www.contensis.com/help-and-docs/apis/delivery-http/content/fields/composed-field) field type in the content type. These link objects can be singular or arrays of links of the same content type e.g. Actors.
 
 Linked content can be unresolved or resolved depending on whether a linkDepth or fieldLinkDepths value has been provided.
 
@@ -43,7 +43,7 @@ language
 
 string
 
-[Language code](/help-and-docs/apis/delivery-http/key-concepts/localization)
+[Language code](https://www.contensis.com/help-and-docs/apis/delivery-http/key-concepts/localization)
 
 \[Optional\] The language code of the linked entry variation
 

@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Managing users](/help-and-docs/guides/managing-users)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Managing users](https://www.contensis.com/help-and-docs/guides/managing-users)
 4.  Single sign-on
-5.  [Azure AD single sign-on](/help-and-docs/guides/managing-users/single-sign-on/azure-ad-single-sign-on)
+5.  [Azure AD single sign-on](https://www.contensis.com/help-and-docs/guides/managing-users/single-sign-on/azure-ad-single-sign-on)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 19 May 2025
 
-With your [Contensis application registered in Azure AD](/help-and-docs/guides/managing-users/single-sign-on/azure-ad-single-sign-on/register-contensis-with-azure-ad)**,** the next step is to login to Contensis and configure the Azure AD integration.
+With your [Contensis application registered in Azure AD](https://www.contensis.com/help-and-docs/guides/managing-users/single-sign-on/azure-ad-single-sign-on/register-contensis-with-azure-ad)**,** the next step is to login to Contensis and configure the Azure AD integration.
 
 1.  Login to Contensis using an administrative account.
 2.  Navigate to the *Management Console* and select **Global Settings**, you need to enter the following settings:
@@ -94,4 +94,4 @@ NB: This setting can be changed without having to restart the identity provider 
 
 ## Final step
 
-Our support team will need to apply these changes for you. Please [raise a help desk ticket](/help-and-docs/help-desk) to arrange this.
+Our support team will need to apply these changes for you. Please [raise a help desk ticket](https://www.contensis.com/help-and-docs/help-desk) to arrange this.

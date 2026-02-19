@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Forms](/help-and-docs/guides/forms)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Forms](https://www.contensis.com/help-and-docs/guides/forms)
 4.  Creating forms
-5.  [Validation](/help-and-docs/guides/forms/creating-forms/validation)
+5.  [Validation](https://www.contensis.com/help-and-docs/guides/forms/creating-forms/validation)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 03 October 2024
 

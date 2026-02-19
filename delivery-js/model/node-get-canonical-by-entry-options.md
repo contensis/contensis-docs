@@ -1,15 +1,15 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 23 July 2025
 
@@ -31,7 +31,7 @@ The entry id to find the canonical node for
 
 entry
 
-[`Entry`](/help-and-docs/apis/delivery-js/model/entry)
+[`Entry`](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)
 
 The entry (containing the id) to find the canonical node for
 

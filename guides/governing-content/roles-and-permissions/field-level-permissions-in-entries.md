@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Governing content](/help-and-docs/guides/governing-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Governing content](https://www.contensis.com/help-and-docs/guides/governing-content)
 4.  Roles and permissions
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 03 December 2024
 
@@ -22,7 +22,7 @@ Field-level permissions allow administrators to finely control which fields are 
 
 ## Permissioning groups of fields
 
-If you need to restrict a large number of fields, you may find it easier to set up [tab-level permissions](/help-and-docs/guides/governing-content/roles-and-permissions/tab-level-permissions-in-entries), which can remove an entire group of fields in the entry editor.
+If you need to restrict a large number of fields, you may find it easier to set up [tab-level permissions](https://www.contensis.com/help-and-docs/guides/governing-content/roles-and-permissions/tab-level-permissions-in-entries), which can remove an entire group of fields in the entry editor.
 
 ## Recommendations and limitations
 

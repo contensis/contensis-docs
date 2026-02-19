@@ -1,11 +1,11 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 29 May 2024
 
-ZenQL stands for Zengenti Query Language. It provides a flexible way to search for content and other resources in Contensis. ZenQL can be passed as a HTTP GET request using a query parameter named `zenql`. It gives you an efficient and fluent alternative to the exisiting JSON-based search available in our [APIs](/help-and-docs/apis/all-apis).
+ZenQL stands for Zengenti Query Language. It provides a flexible way to search for content and other resources in Contensis. ZenQL can be passed as a HTTP GET request using a query parameter named `zenql`. It gives you an efficient and fluent alternative to the exisiting JSON-based search available in our [APIs](https://www.contensis.com/help-and-docs/apis/all-apis).
 
 The grammar used by ZenQL is separated from specific data schemas. The operators, functions, and relative time periods of ZenQL can be used across all our APIs, apart from a few exceptions where they are not semantically applicable.
 

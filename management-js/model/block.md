@@ -68,7 +68,7 @@ branches.versions.status.deployment
 
 string
 
-[Deployment status](/help-and-docs/apis/management-http/publishing/blocks/block-version-statuses)
+[Deployment status](https://www.contensis.com/help-and-docs/apis/management-http/publishing/blocks/block-version-statuses)
 
 The block deployment status
 
@@ -76,7 +76,7 @@ branches.versions.status.running
 
 string
 
-[Running status](/help-and-docs/apis/management-http/publishing/blocks/block-version-statuses)
+[Running status](https://www.contensis.com/help-and-docs/apis/management-http/publishing/blocks/block-version-statuses)
 
 The block running status
 
@@ -84,7 +84,7 @@ branches.versions.status.workflow
 
 string
 
-[Workflow status](/help-and-docs/apis/management-http/publishing/blocks/block-version-statuses)
+[Workflow status](https://www.contensis.com/help-and-docs/apis/management-http/publishing/blocks/block-version-statuses)
 
 The block workflow status
 

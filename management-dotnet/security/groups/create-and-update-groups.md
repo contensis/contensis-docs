@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Security
 5.  Groups
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-Creating and updating [groups](/help-and-docs/apis/management-dotnet/model/group) can be achieved by using one of the `New` method overloads in combination with calling `Save` on the Group class.
+Creating and updating [groups](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group) can be achieved by using one of the `New` method overloads in combination with calling `Save` on the Group class.
 
 -   [New(string groupName, GroupType groupType)](#create-new-group)
 

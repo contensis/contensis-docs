@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Security
 5.  Users
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 27 August 2024
 
-Searching [users](/help-and-docs/apis/management-dotnet/model/user) can be achieved by using one of the Search methods.
+Searching [users](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/user) can be achieved by using one of the Search methods.
 
 -   [Search(SecuritySearchOptions securitySearchOptions)](#search-with-search-options)
 -   [SearchAsync(SecuritySearchOptions securitySearchOptions)](#search-with-search-options-async)

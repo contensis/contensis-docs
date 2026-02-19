@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Authoring and managing content](/help-and-docs/guides/authoring-and-managing-content)
-4.  [Canvas editor](/help-and-docs/guides/authoring-and-managing-content/canvas-editor)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Authoring and managing content](https://www.contensis.com/help-and-docs/guides/authoring-and-managing-content)
+4.  [Canvas editor](https://www.contensis.com/help-and-docs/guides/authoring-and-managing-content/canvas-editor)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 28 May 2024
 
@@ -24,7 +24,7 @@ The canvas also supports a lead paragraph option to style the first paragraph of
 
 Using different sizes of headings throughout your writing gives your content more structure, context, and a sense of priority. Contensis supports six heading levels, however try to keep this number appropriate to your content.
 
-All headings have [HTML anchor links](/help-and-docs/guides/authoring-and-managing-content/canvas-editor/links-and-anchors), which are links that you can use to point to a particular section of your documentation.
+All headings have [HTML anchor links](https://www.contensis.com/help-and-docs/guides/authoring-and-managing-content/canvas-editor/links-and-anchors), which are links that you can use to point to a particular section of your documentation.
 
 -   Use markdown to insert a heading of a specific size e.g. `# Heading level one ## Heading level two`.
 -   Use markdown before an existing heading to convert to another heading level.

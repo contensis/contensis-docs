@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Permissions
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
@@ -63,7 +63,7 @@ query
 
 string
 
-[LanguageCode](/help-and-docs/apis/management-js/key-concepts/localization)
+[LanguageCode](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The optional language code to retrieve permissions for.
 
@@ -93,13 +93,13 @@ Array of actions available
 
 NotFound
 
-[Error](/help-and-docs/apis/management-js/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/errors)
 
 500
 
 InternalServerError
 
-[Error](/help-and-docs/apis/management-js/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/errors)
 
 ### Example response
 

@@ -1,21 +1,21 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Roles
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
 ## List roles
 
-Role resources can be retrieved as a paged list by passing an optional [PageOptions](/help-and-docs/apis/management-js/model/page-options) object as an argument.
+Role resources can be retrieved as a paged list by passing an optional [PageOptions](https://www.contensis.com/help-and-docs/apis/management-js/model/page-options) object as an argument.
 
 ***list(options?: PageOptions): Promise<PagedList<Role>>***
 
 ## Returns
 
-A Promise that will resolve with a [PagedList](/help-and-docs/apis/management-js/model/paged-list) that contains an array of [Role](/help-and-docs/apis/management-js/model/role) objects.
+A Promise that will resolve with a [PagedList](https://www.contensis.com/help-and-docs/apis/management-js/model/paged-list) that contains an array of [Role](https://www.contensis.com/help-and-docs/apis/management-js/model/role) objects.
 
 ## Example
 

@@ -1,14 +1,14 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Security
 5.  Users
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 25 July 2022
 
-Suspending or Unsuspending a [user](/help-and-docs/apis/management-dotnet/model/user "user")'s account can be achieved by calling one of the following methods on the user object.
+Suspending or Unsuspending a [user](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/user "user")'s account can be achieved by calling one of the following methods on the user object.
 
 -   Suspend()
 -   SuspendAsync()

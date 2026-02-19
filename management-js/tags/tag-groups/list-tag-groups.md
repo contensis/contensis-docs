@@ -1,16 +1,16 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Tags
 5.  Tag groups
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 02 July 2025
 
@@ -55,7 +55,7 @@ An options object to find tag groups with a simple query, provide paging options
 
 ## Returns
 
-A Promise that will resolve with a [PagedList](/help-and-docs/apis/management-js/model/paged-list) of [TagGroup](/help-and-docs/apis/management-js/model/tag-group)
+A Promise that will resolve with a [PagedList](https://www.contensis.com/help-and-docs/apis/management-js/model/paged-list) of [TagGroup](https://www.contensis.com/help-and-docs/apis/management-js/model/tag-group)
 
 ## Remarks
 

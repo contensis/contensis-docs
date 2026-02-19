@@ -1,4 +1,4 @@
-If you want to replace an entry attached to a particular URL, you can replace the entry on a node within the Site View screen. You'll need to be a part of a role with [Manage entries permission](/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) for the content type you want to replace on the selected node or be a *Site View Administrators'* security group member.
+If you want to replace an entry attached to a particular URL, you can replace the entry on a node within the Site View screen. You'll need to be a part of a role with [Manage entries permission](https://www.contensis.com/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) for the content type you want to replace on the selected node or be a *Site View Administrators'* security group member.
 
 1.  Select **Site View** from the sidebar to manage your site structure and content.
 2.  With *Site View* open, use the tree to navigate to the node in your site to which you'd like to replace the entry.

@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Nodes
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 23 July 2025
 
@@ -19,7 +19,7 @@ Page last updated 23 July 2025
 -   [Remarks](#remarks-1)
 -   [Examples](#examples)
 
-Call the `nodes.get()` method in our delivery client to return a [node](/help-and-docs/apis/delivery-js/model/node) from site view, optionally resolving an attached [entry](/help-and-docs/apis/delivery-js/model/entry)
+Call the `nodes.get()` method in our delivery client to return a [node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node) from site view, optionally resolving an attached [entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)
 
 ### Call signatures
 
@@ -57,19 +57,19 @@ The full path to the node
 
 options
 
-`[NodeGetByIdOptions](/help-and-docs/apis/delivery-js/model/node-get-by-id-options)`
+`[NodeGetByIdOptions](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node-get-by-id-options)`
 
 An options object to apply additional refinements
 
 options
 
-`[NodeGetByPathOptions](/help-and-docs/apis/delivery-js/model/node-get-by-path-options)`
+`[NodeGetByPathOptions](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node-get-by-path-options)`
 
 An options object to apply additional refinements
 
 ### Returns
 
-A Promise that will resolve with the [Node](/help-and-docs/apis/delivery-js/model/node) or array of [Node](/help-and-docs/apis/delivery-js/model/node)
+A Promise that will resolve with the [Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node) or array of [Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node)
 
 ### Remarks
 
@@ -116,7 +116,7 @@ try {
 
 ## Get nodes by entry
 
-Call the `nodes.getByEntry()` method in our delivery client to return an array of [node](/help-and-docs/apis/delivery-js/model/node), or a single canonical [node](/help-and-docs/apis/delivery-js/model/node) from site view, optionally resolving the attached [entry](/help-and-docs/apis/delivery-js/model/entry)
+Call the `nodes.getByEntry()` method in our delivery client to return an array of [node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node), or a single canonical [node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node) from site view, optionally resolving the attached [entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry)
 
 ### Call signatures
 
@@ -154,19 +154,19 @@ An entry object containing the sys.id of the entry attached to the node(s)
 
 options
 
-`[NodeGetByEntryOptions](/help-and-docs/apis/delivery-js/model/node-get-by-entry-options)`
+`[NodeGetByEntryOptions](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node-get-by-entry-options)`
 
 An options object to apply additional refinements
 
 options
 
-`[NodeGetCanonicalByEntryOptions](/help-and-docs/apis/delivery-js/model/node-get-canonical-by-entry-options)`
+`[NodeGetCanonicalByEntryOptions](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node-get-canonical-by-entry-options)`
 
 An options object to request a single canonical node
 
 ### Returns
 
-A Promise that will resolve with an array of [Node](/help-and-docs/apis/delivery-js/model/node), or a single canonical [Node](/help-and-docs/apis/delivery-js/model/node) if `NodeGetCanonicalByEntryOptions` are provided.
+A Promise that will resolve with an array of [Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node), or a single canonical [Node](https://www.contensis.com/help-and-docs/apis/delivery-js/model/node) if `NodeGetCanonicalByEntryOptions` are provided.
 
 ### Remarks
 
