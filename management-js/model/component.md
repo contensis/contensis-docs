@@ -1,8 +1,8 @@
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
-A component determines a reusable schema added to [content types](/help-and-docs/apis/management-js/model/content-type) which [entries](/help-and-docs/apis/management-js/model/entry) are then created from. Components contain a list of fields just like content types, and allow for a standardized schema for modelling content.
+A component determines a reusable schema added to [content types](https://www.contensis.com/help-and-docs/apis/management-js/model/content-type) which [entries](https://www.contensis.com/help-and-docs/apis/management-js/model/entry) are then created from. Components contain a list of fields just like content types, and allow for a standardized schema for modelling content.
 
 ## Properties
 
@@ -30,7 +30,7 @@ name
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The friendly name given to a component
 
@@ -38,7 +38,7 @@ description
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The description text given to a component
 
@@ -66,7 +66,7 @@ version
 
 object
 
-[Version](/help-and-docs/apis/management-js/model/version)
+[Version](https://www.contensis.com/help-and-docs/apis/management-js/model/version)
 
 Version information about the component
 
@@ -94,7 +94,7 @@ name
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 A friendly name for the field
 
@@ -102,7 +102,7 @@ description
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The description for the field's purpose
 
@@ -110,7 +110,7 @@ dataType
 
 string
 
-[Data type](/help-and-docs/apis/management-js/key-concepts/data-types)
+[Data type](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/data-types)
 
 The field data type
 
@@ -118,7 +118,7 @@ dataFormat
 
 string
 
-[Data type](/help-and-docs/apis/management-js/key-concepts/data-formats)
+[Data type](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/data-formats)
 
 The field data format
 
@@ -126,7 +126,7 @@ default
 
 object
 
-[Localized value](/help-and-docs/apis/management-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization)
 
 The default value for the field if no value is provided by an editor
 
@@ -146,7 +146,7 @@ Configuration for the Contensis entry editor
 
 ## Localized value
 
-A localized value is an object that has values that are keyed by [language codes](/help-and-docs/apis/management-js/key-concepts/localization) which allows multilingual variations of a specific property.
+A localized value is an object that has values that are keyed by [language codes](https://www.contensis.com/help-and-docs/apis/management-js/key-concepts/localization) which allows multilingual variations of a specific property.
 
 ## Example
 

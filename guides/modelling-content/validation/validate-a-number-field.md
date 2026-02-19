@@ -2,7 +2,7 @@ The number validation checks the values of a field are within a specified range.
 
 ## Appearance
 
-![An example of a number field with a maximum value validation.](/image-library/resources-images/user-guides-images/number-validation.xcb2146a6.png?q=80&f=webp)
+![An example of a number field with a maximum value validation.](https://www.contensis.com/image-library/resources-images/user-guides-images/number-validation.xcb2146a6.png?q=80&f=webp)
 
 An example of a number field with a maximum value validation.
 

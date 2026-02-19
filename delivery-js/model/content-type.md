@@ -1,15 +1,15 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -21,7 +21,7 @@ Page last updated 10 December 2024
 -   [Localized value](#localized-value)
 -   [Example](#example)
 
-A content type resource can be retrieved from the Delivery API to understand the schema of an [entry](/help-and-docs/apis/delivery-js/model/entry). Entries are constructed and validated using the information defined in the fields collection.
+A content type resource can be retrieved from the Delivery API to understand the schema of an [entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry). Entries are constructed and validated using the information defined in the fields collection.
 
 ## Properties
 
@@ -49,7 +49,7 @@ name
 
 object
 
-[Localized value](/help-and-docs/apis/delivery-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization)
 
 The friendly name given to a content type
 
@@ -57,7 +57,7 @@ description
 
 object
 
-[Localized value](/help-and-docs/apis/delivery-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization)
 
 The description text given to a content type
 
@@ -83,13 +83,13 @@ defaultLanguage
 
 string
 
-[Language code](/help-and-docs/apis/delivery-js/key-concepts/localization)
+[Language code](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization)
 
 supportedLanguages
 
 string \[…\]
 
-[Language code](/help-and-docs/apis/delivery-js/key-concepts/localization)
+[Language code](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization)
 
 workflowId
 
@@ -113,7 +113,7 @@ version
 
 object
 
-[Version](/help-and-docs/apis/delivery-js/model/version)
+[Version](https://www.contensis.com/help-and-docs/apis/delivery-js/model/version)
 
 Version information about the content type
 
@@ -147,7 +147,7 @@ name
 
 object
 
-[Localized value](/help-and-docs/apis/delivery-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization)
 
 A friendly name for the field
 
@@ -155,7 +155,7 @@ description
 
 object
 
-[Localized value](/help-and-docs/apis/delivery-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization)
 
 The description for the field's purpose
 
@@ -163,7 +163,7 @@ dataType
 
 string
 
-[Data type](/help-and-docs/apis/delivery-js/key-concepts/data-types)
+[Data type](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/data-types)
 
 The field data type
 
@@ -171,7 +171,7 @@ dataFormat
 
 string
 
-[Data type](/help-and-docs/apis/delivery-js/key-concepts/data-formats)
+[Data type](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/data-formats)
 
 The field data format
 
@@ -179,7 +179,7 @@ default
 
 object
 
-[Localized value](/help-and-docs/apis/delivery-js/key-concepts/localization)
+[Localized value](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization)
 
 The default value for the field if no value is provided by an editor
 
@@ -199,7 +199,7 @@ Configuration for the Contensis entry editor
 
 ## Localized value
 
-A localized value is an object that has values that are keyed by [language codes](/help-and-docs/apis/delivery-js/key-concepts/localization) which allows multilingual variations of a specific property.
+A localized value is an object that has values that are keyed by [language codes](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization) which allows multilingual variations of a specific property.
 
 ## Example
 

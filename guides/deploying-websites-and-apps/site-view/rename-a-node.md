@@ -1,4 +1,4 @@
-Once a node has been created in Site View, you may want to change its display name, slug, or whether it's included in the menu. To make any changes, you'll need to be a member of a role with [Update node permission](/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) for the node you are updating.
+Once a node has been created in Site View, you may want to change its display name, slug, or whether it's included in the menu. To make any changes, you'll need to be a member of a role with [Update node permission](https://www.contensis.com/help-and-docs/user-guides/content-modelling/site-view/site-view-permissions) for the node you are updating.
 
 1.  With Site View open, use the tree to navigate to the node you want to update.
 2.  Right-click or select the **Action** button indicated by the triple dot icon, to open the node context menu.

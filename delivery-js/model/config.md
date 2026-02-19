@@ -1,19 +1,19 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 13 November 2024
 
-A Config is required provide the necessary details to the [Client.create()](/help-and-docs/apis/delivery-js/model/client) method that connects to a Contensis project and allows for further refinements that are applied to each request made from the client instance that is returned
+A Config is required provide the necessary details to the [Client.create()](https://www.contensis.com/help-and-docs/apis/delivery-js/model/client) method that connects to a Contensis project and allows for further refinements that are applied to each request made from the client instance that is returned
 
 ## Properties
 
@@ -33,7 +33,7 @@ accessToken
 
 string
 
-The [environment access token](/help-and-docs/guides/managing-your-environment/environment-access-token) to authenticate requests
+The [environment access token](https://www.contensis.com/help-and-docs/guides/managing-your-environment/environment-access-token) to authenticate requests
 
 projectId
 
@@ -45,7 +45,7 @@ language
 
 string
 
-The [language](/help-and-docs/apis/delivery-js/key-concepts/localization) to request localized content for
+The [language](https://www.contensis.com/help-and-docs/apis/delivery-js/key-concepts/localization) to request localized content for
 
 versionStatus
 
@@ -57,7 +57,7 @@ pageSize
 
 number
 
-Set the number of results to return per page when requesting a [PagedList](/help-and-docs/apis/delivery-js/model/paged-list)
+Set the number of results to return per page when requesting a [PagedList](https://www.contensis.com/help-and-docs/apis/delivery-js/model/paged-list)
 
 clientType
 

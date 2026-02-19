@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-dotnet)
 4.  Key concepts
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 26 January 2022
 
-Components are structures that are defined in the Component editor as custom types. They can be added as field types to [Content Types](/help-and-docs/apis/delivery-dotnet/model/contenttype) as entry-level fields or as [ComposedField](/help-and-docs/apis/delivery-dotnet/model/composed) items. Components themselves can contain any field types except other components or ComposedField types.
+Components are structures that are defined in the Component editor as custom types. They can be added as field types to [Content Types](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/contenttype) as entry-level fields or as [ComposedField](https://www.contensis.com/help-and-docs/apis/delivery-dotnet/model/composed) items. Components themselves can contain any field types except other components or ComposedField types.
 
 ## Getting component data
 

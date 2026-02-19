@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Governing content](/help-and-docs/guides/governing-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Governing content](https://www.contensis.com/help-and-docs/guides/governing-content)
 4.  Workflow
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 28 May 2024
 
-The following entry workflow states represent the states that are possible in the [standard workflows](/help-and-docs/user-guides/governance/workflow/types-of-workflow) that ship with Contensis.
+The following entry workflow states represent the states that are possible in the [standard workflows](https://www.contensis.com/help-and-docs/user-guides/governance/workflow/types-of-workflow) that ship with Contensis.
 
 ### In progress
 

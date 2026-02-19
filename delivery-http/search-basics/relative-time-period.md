@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Delivery API](/help-and-docs/apis/delivery-http)
-4.  [Search basics](/help-and-docs/apis/delivery-http/search-basics)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-http)
+4.  [Search basics](https://www.contensis.com/help-and-docs/apis/delivery-http/search-basics)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 24 September 2024
 
-A Relative Time Period is a token that the Delivery API can convert to a date-time value relative to the current UTC date-time. It can be used stand-alone as an operand in search queries or passed as a parameter to any of the date-time [Expression Functions](/help-and-docs/apis/delivery-http/search-basics/expression-functions). Used outside of an Expression Function now() is implied. That is, "-1d" is equivalent to "now(-1d)".
+A Relative Time Period is a token that the Delivery API can convert to a date-time value relative to the current UTC date-time. It can be used stand-alone as an operand in search queries or passed as a parameter to any of the date-time [Expression Functions](https://www.contensis.com/help-and-docs/apis/delivery-http/search-basics/expression-functions). Used outside of an Expression Function now() is implied. That is, "-1d" is equivalent to "now(-1d)".
 
 ### Syntax
 

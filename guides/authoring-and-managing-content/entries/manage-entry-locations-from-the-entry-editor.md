@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Authoring and managing content](/help-and-docs/guides/authoring-and-managing-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Authoring and managing content](https://www.contensis.com/help-and-docs/guides/authoring-and-managing-content)
 4.  Entries
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 28 May 2024
 
@@ -17,7 +17,7 @@ The first location of an entry can be set in the ways outlined in the following 
 
 ## Add additional locations
 
-When you want the entry to be available at multiple URLs you'll need to add an additional location to the entry. This can be done by [attaching the entry](/help-and-docs/user-guides/content-modelling/site-view/attach-an-entry-to-a-node) to an additional node in site view, or as this article outlines, through the *Manage locations* screen.
+When you want the entry to be available at multiple URLs you'll need to add an additional location to the entry. This can be done by [attaching the entry](https://www.contensis.com/help-and-docs/user-guides/content-modelling/site-view/attach-an-entry-to-a-node) to an additional node in site view, or as this article outlines, through the *Manage locations* screen.
 
 This action is only available to authors that are members of the *Site View Administrators group.*
 

@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [.NET Management API](https://www.contensis.com/help-and-docs/apis/management-dotnet)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 26 September 2023
 
@@ -97,7 +97,7 @@ The last password change datetime.
 
 Status
 
-[UserStatus](/help-and-docs/apis/management-dotnet/model/userstatus)
+[UserStatus](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/userstatus)
 
 The user's status properties.
 
@@ -121,97 +121,97 @@ Returns
 
 Description
 
-[Delete](/help-and-docs/apis/management-dotnet/security/users/delete-a-user)
+[Delete](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/delete-a-user)
 
 void
 
 Deletes the user.
 
-[DeleteAsync](/help-and-docs/apis/management-dotnet/security/users/delete-a-user)
+[DeleteAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/delete-a-user)
 
 void
 
 Deletes the user asynchronously.
 
-[Groups](/help-and-docs/apis/management-dotnet/security/users/get-group-memberships)
+[Groups](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/get-group-memberships)
 
-PagedList<[Group](/help-and-docs/apis/management-dotnet/model/group)\>
+PagedList<[Group](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group)\>
 
 Lists group memberships.
 
-[GroupsAsync](/help-and-docs/apis/management-dotnet/security/users/get-group-memberships)
+[GroupsAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/get-group-memberships)
 
-PagedList<[Group](/help-and-docs/apis/management-dotnet/model/group)\>
+PagedList<[Group](https://www.contensis.com/help-and-docs/apis/management-dotnet/model/group)\>
 
 Lists group memberships asynchronously.
 
-[IsMemberOf](/help-and-docs/apis/management-dotnet/security/users/check-group-memberships)
+[IsMemberOf](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/check-group-memberships)
 
 bool
 
 Checks if the user is a member of the specified group(s).
 
-[IsMemberOfAsync](/help-and-docs/apis/management-dotnet/security/users/check-group-memberships)
+[IsMemberOfAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/check-group-memberships)
 
 bool
 
 Checks if the user is a member of the specified group(s) asynchronously.
 
-[Save](/help-and-docs/apis/management-dotnet/security/users/create-and-update-users)
+[Save](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/create-and-update-users)
 
 void
 
 Updates the changes to the user, or creates a new user.
 
-[SaveAsync](/help-and-docs/apis/management-dotnet/security/users/create-and-update-users)
+[SaveAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/create-and-update-users)
 
 void
 
 Saves the changes to the user, or creates a new user asynchronously.
 
-[UpdatePassword](/help-and-docs/apis/management-dotnet/security/users/update-password)
+[UpdatePassword](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/update-password)
 
 void
 
 Updates the user's password.
 
-[UpdatePasswordAsync](/help-and-docs/apis/management-dotnet/security/users/update-password)
+[UpdatePasswordAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/update-password)
 
 void
 
 Updates the user's password asynchronously.
 
-[Suspend](/help-and-docs/apis/management-dotnet/security/users/suspend-a-user-account "Suspend")
+[Suspend](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/suspend-a-user-account "Suspend")
 
 void
 
 Sets the user's status to suspended so they cannot log in.
 
-[SuspendAsync](/help-and-docs/apis/management-dotnet/security/users/suspend-a-user-account "SuspendAsync")
+[SuspendAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/suspend-a-user-account "SuspendAsync")
 
 void
 
 Sets the user's status to suspended, asynchronously, so they cannot log in.
 
-[Unsuspend](/help-and-docs/apis/management-dotnet/security/users/suspend-a-user-account "Unsuspend")
+[Unsuspend](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/suspend-a-user-account "Unsuspend")
 
 void
 
 Sets the user's status to active so they can log in.
 
-[UnsuspendAsync](/help-and-docs/apis/management-dotnet/security/users/suspend-a-user-account "UnsuspendAsync")
+[UnsuspendAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/suspend-a-user-account "UnsuspendAsync")
 
 void
 
 Sets the user's status to active, asynchronously, so they can log in.
 
-[Unlock](/help-and-docs/apis/management-dotnet/security/users/unlock-a-user "Unlock")
+[Unlock](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/unlock-a-user "Unlock")
 
 void
 
 Unlocks a locked user so they can log in.
 
-[UnlockAsync](/help-and-docs/apis/management-dotnet/security/users/unlock-a-user "UnlockAsync")
+[UnlockAsync](https://www.contensis.com/help-and-docs/apis/management-dotnet/security/users/unlock-a-user "UnlockAsync")
 
 void
 

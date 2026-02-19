@@ -1,30 +1,30 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
 Dark mode
 
--   -   [Back to user guides](/help-and-docs/guides)
+-   -   [Back to user guides](https://www.contensis.com/help-and-docs/guides)
         
         #### Querying your content
         
     
-    -   -   [Overview](/help-and-docs/guides/querying-your-content/zenql-search/overview)
-        -   [Data types](/help-and-docs/guides/querying-your-content/zenql-search/data-types)
-        -   [Date formats](/help-and-docs/guides/querying-your-content/zenql-search/date-formats)
-        -   [Keywords](/help-and-docs/guides/querying-your-content/zenql-search/keywords)
-        -   [Operators](/help-and-docs/guides/querying-your-content/zenql-search/operators)
-        -   [Functions](/help-and-docs/guides/querying-your-content/zenql-search/functions)
-        -   [Relative time period](/help-and-docs/guides/querying-your-content/zenql-search/relative-time-period)
-        -   [Ordering](/help-and-docs/guides/querying-your-content/zenql-search/ordering)
-        -   [Cheat sheet](/help-and-docs/guides/querying-your-content/zenql-search/cheat-sheet)
+    -   -   [Overview](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/overview)
+        -   [Data types](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/data-types)
+        -   [Date formats](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/date-formats)
+        -   [Keywords](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/keywords)
+        -   [Operators](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/operators)
+        -   [Functions](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/functions)
+        -   [Relative time period](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/relative-time-period)
+        -   [Ordering](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/ordering)
+        -   [Cheat sheet](https://www.contensis.com/help-and-docs/guides/querying-your-content/zenql-search/cheat-sheet)
 -   End of list
 
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Querying your content](/help-and-docs/guides/querying-your-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Querying your content](https://www.contensis.com/help-and-docs/guides/querying-your-content)
 4.  ZENQL search
 
 ## Order list: ORDER BY {}

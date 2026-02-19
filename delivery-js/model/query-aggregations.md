@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 29 May 2025
 
@@ -12,7 +12,7 @@ Page last updated 29 May 2025
 -   [Properties](#parameters)
 -   [QueryAggregation](#query-aggregation)
 
-Provides insights into data distribution and prompts for further search refinements. [Aggregations](/help-and-docs/apis/delivery-http/search-basics/aggregations) allow you to group data by specific fields and return a count of entries matching each unique value from all pages in a result-set.
+Provides insights into data distribution and prompts for further search refinements. [Aggregations](https://www.contensis.com/help-and-docs/apis/delivery-http/search-basics/aggregations) allow you to group data by specific fields and return a count of entries matching each unique value from all pages in a result-set.
 
 `QueryAggregations` is a structure that is used to add aggregations to a search query and to describe the options for aggregating the data assigned to an entry field.
 

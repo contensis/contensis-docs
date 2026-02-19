@@ -1,4 +1,4 @@
-If you no longer require a particular webhook then you can delete it from the editor or the listing. Follow our guide to [disable a webhook](/help-and-docs/user-guides/integration/webhooks/enable-disable-a-webhook) if you only want to stop a webhook from sending messages temporarily.
+If you no longer require a particular webhook then you can delete it from the editor or the listing. Follow our guide to [disable a webhook](https://www.contensis.com/help-and-docs/user-guides/integration/webhooks/enable-disable-a-webhook) if you only want to stop a webhook from sending messages temporarily.
 
 To delete a webhook you'll need to be a member of a role with a delete permission.
 
