@@ -1,0 +1,53 @@
+1.  [Help and docs](/help-and-docs)
+2.  [APIs](/help-and-docs/apis)
+3.  [.NET Delivery API](/help-and-docs/apis/delivery-dotnet)
+4.  Model
+
+[Log in to add to favourites](/account/login)
+
+Page last updated 27 January 2022
+
+The Quote type represents a section of referenced text from an external source.
+
+## Properties
+
+Name
+
+Type
+
+Description
+
+Text
+
+string
+
+The quote text
+
+Source
+
+string
+
+The source of the quote
+
+## Examples
+
+##### Get a Source field object
+
+C#
+
+```
+using Zengenti.Contensis.Delivery;
+
+// Create an API client
+var client = ContensisClient.Create();
+
+// Retrieve a movie by it's ID.
+var movie = client.Entries.Get("3bb72e32-1fc7-4289-bf65-60a5b8ce1f78");
+
+// Get the field value as a Quote instance.
+var filmQuote = movie.Get<Quote>("memorableQuote");
+
+<blockquote cite="@filmQuote.Source">
+    @filmQuote.Text
+</blockquote>
+```
