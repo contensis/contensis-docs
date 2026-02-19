@@ -1,0 +1,147 @@
+1.  [Help and docs](/help-and-docs)
+2.  [APIs](/help-and-docs/apis)
+3.  [.NET Management API](/help-and-docs/apis/management-dotnet)
+4.  Key concepts
+
+[Log in to add to favourites](/account/login)
+
+Page last updated 01 April 2022
+
+Listing Entries can be achieved by using one of the `List` method overloads.
+
+-   [List(string contentTypeId, string language, PageOptions pageOptions, IList order)](#list)
+-   [ListAsync(string contentTypeId, string language, PageOptions pageOptions, IList order)](#list-async)
+
+## List
+
+Lists entries as a PagedList.
+
+### Syntax
+
+C#
+
+```
+public PagedList<Entry> List(string contentTypeId = null, string language = null, PageOptions pageOptions = null, IList<string> order = null)
+{
+}
+```
+
+### Parameters
+
+*contentTypeId*
+
+Type: `string`  
+The content type to filter by.
+
+*language*
+
+Type: `string`  
+The language to filter by.
+
+*pageOptions*
+
+Type: `PageOptions`  
+Paging options with PageIndex and PageSize properties.
+
+*order*
+
+Type: `IList<string>`  
+A list of field names specifying the order in which to return the entries.
+
+### Remarks
+
+The parameters can optionally be specified in any combination.
+
+### Example
+
+C#
+
+```
+using Zengenti.Contensis.Management;
+using Zengenti.Data;
+
+// Create an API client
+var client = ManagementClient.Create();
+
+// Retrieve the relevant project
+var movieDbProject = client.Projects.Get("moviedb");
+
+// Get movies with default paging options in the default language
+var movies = movieDbProject.Entries.List("movie");
+
+// Get movies with default paging options in French
+var movies = movieDbProject.Entries.List("movie", "fr-FR");
+
+// Get movies with paging options
+var movies = movieDbProject.Entries.List("movie", pageOptions: new PageOptions(0,10));
+
+// Get actors with default paging options and a specified order
+var movies = movieDbProject.Entries.List("actor", order: new [] { "name", "-dateOfBirth"});
+```
+
+## List async
+
+Lists entries as a PagedList asynchronously.
+
+### Syntax
+
+C#
+
+```
+public async Task<PagedList<Entry>> List(string contentTypeId = null, string language = null, PageOptions pageOptions = null, IList<string> order = null)
+{
+}
+```
+
+### Parameters
+
+*contentTypeId*
+
+Type: `string`  
+The content type to filter by.
+
+*language*
+
+Type: `string`  
+The language to filter by.
+
+*pageOptions*
+
+Type: `PageOptions`  
+Paging options with PageIndex and PageSize properties.
+
+*order*
+
+Type: `IList<string>`  
+A list of field names specifying the order in which to return the entries.
+
+### Remarks
+
+The parameters can optionally be specified in any combination.
+
+### Example
+
+C#
+
+```
+using Zengenti.Contensis.Management;
+using Zengenti.Data;
+
+// Create an API client
+var client = ManagementClient.Create();
+
+// Retrieve the relevant project
+var movieDbProject = client.Projects.Get("moviedb");
+
+// Get movies with default paging options in the default language
+var movies = await movieDbProject.Entries.ListAsync("movie");
+
+// Get movies with default paging options in French
+var movies = await movieDbProject.Entries.ListAsync("movie", "fr-FR");
+
+// Get movies with paging options
+var movies = await movieDbProject.Entries.ListAsync("movie", pageOptions: new PageOptions(0,10));
+
+// Get actors with default paging options and a specified order
+var movies = await movieDbProject.Entries.ListAsync("actor", order: new [] { "name", "-dateOfBirth" });
+```
