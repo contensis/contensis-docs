@@ -1,0 +1,3 @@
+Saved views allow you to save commonly used searches and results layouts to be recalled later. The views can be private or made public and shared for others to add to their favourites. Views can also be defined centrally for a project, giving everyone a standard set of views.
+
+Views are displayed in the Entry listing screen under a tab called *Views*. They also provide the primary navigation method in the Advanced search screen.
