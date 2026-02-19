@@ -1,0 +1,5 @@
+To access any resource from the Management API, a client needs to authenticate with the Zengenti OAuth 2.0 Identity Provider, which is hosted with the Contensis application.
+
+Websites and applications are authenticated using the [OAuth 2.0 client credential flow](https://tools.ietf.org/html/rfc6749#section-4.4), which is used to grant access to resources such as entries, content types and projects.
+
+The client needs to provide a *clientId*, a *shared secret* and a list of [scopes](/help-and-docs/apis/management-js/security/scopes). The *clientId* and *shared secret* can be created in [API Management](/help-and-docs/guides/integrating-with-other-platforms/api-keys/api-key-overview "API Keys") screen in Contensis. These credentials are used to request an *access token* from the identity provider, which is cached locally and passed along with each request as a HTTP Authorization header to the Delivery API services. If the authentication request fails then a 401 HTTP status code response is returned.
