@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Modelling content](/help-and-docs/guides/modelling-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Modelling content](https://www.contensis.com/help-and-docs/guides/modelling-content)
 4.  Validation
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -11,7 +11,7 @@ The *number of characters* validation rule checks that the number of characters 
 
 ## Appearance
 
-![An example of a text field with a character count range applied.](/image-library/resources-images/user-guides-images/character-count.x4a57e8bc.png?q=80&f=webp)
+![An example of a text field with a character count range applied.](https://www.contensis.com/image-library/resources-images/user-guides-images/character-count.x4a57e8bc.png?q=80&f=webp)
 
 An example of a text field with a character count range applied.
 

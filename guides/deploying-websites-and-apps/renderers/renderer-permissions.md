@@ -1,15 +1,15 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Deploying websites and apps](/help-and-docs/guides/deploying-websites-and-apps)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Deploying websites and apps](https://www.contensis.com/help-and-docs/guides/deploying-websites-and-apps)
 4.  Renderers
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 28 May 2024
 

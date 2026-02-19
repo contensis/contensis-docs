@@ -6,7 +6,7 @@ You can create and customize content types using the **content type builder**. E
 -   **Data type**: The type of data (e.g., string, number, etc.)
 -   **Additional properties**: These may include validation rules, editor types, and content guidelines.
 
-Find more information on [how to create and manage content types](/help-and-docs/guides/modelling-content/content-types/overview) in our user guides
+Find more information on [how to create and manage content types](https://www.contensis.com/help-and-docs/guides/modelling-content/content-types/overview) in our user guides
 
 ### Supported data formats
 
@@ -88,7 +88,7 @@ A collection of fields that form the schema for an entry or form response
 
 object\[...\]
 
-[content type group](/help-and-docs/apis/management-http/content/content-types/content-type-group)
+[content type group](https://www.contensis.com/help-and-docs/apis/management-http/content/content-types/content-type-group)
 
 A collection of groups that enable related fields to be grouped together in the UI
 

@@ -1,13 +1,13 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Querying your content](/help-and-docs/guides/querying-your-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Querying your content](https://www.contensis.com/help-and-docs/guides/querying-your-content)
 4.  ZENQL search
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 29 May 2024
 
-A relative time period is a token that can convert a date and time value, relative to the current date and time (UTC). It can be used in an operator or as a parameter of a [date time function](/help-and-docs/user-guides/zenql-search/zenql-search-functions).
+A relative time period is a token that can convert a date and time value, relative to the current date and time (UTC). It can be used in an operator or as a parameter of a [date time function](https://www.contensis.com/help-and-docs/user-guides/zenql-search/zenql-search-functions).
 
 ## Syntax
 
@@ -69,5 +69,5 @@ Minute
     `sys.version.created >= -1d`
 -   Used stand-alone to list records created in the last month plus 1 week.  
     `sys.version.created >= -1M 1w`
--   Used as a parameter to an Expression Function to list records created last year. *The year is inferred by the [date function](/help-and-docs/user-guides/zenql-search/zenql-search-functions)*.  
+-   Used as a parameter to an Expression Function to list records created last year. *The year is inferred by the [date function](https://www.contensis.com/help-and-docs/user-guides/zenql-search/zenql-search-functions)*.  
     `sys.version.created >= startOfYear(-1) and <= endOfYear(-1)`

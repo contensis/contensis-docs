@@ -1,8 +1,8 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Modelling content](/help-and-docs/guides/modelling-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Modelling content](https://www.contensis.com/help-and-docs/guides/modelling-content)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 10 December 2024
 
@@ -18,12 +18,12 @@ Your authors will create content by filling in the fields you’ve defined. This
 
 -   Simplify content entry for your authors with the intuitive, form-style interface.
 -   Break your content down into smaller chunks to make your content easy to reuse and manage across your websites or applications.
--   Reinforce your house style with [validation rules](/help-and-docs/user-guides/content-modelling/validation/validation-overview) and content guidelines to help authors understand what you expect them to enter into each field as they are populating their content.
+-   Reinforce your house style with [validation rules](https://www.contensis.com/help-and-docs/user-guides/content-modelling/validation/validation-overview) and content guidelines to help authors understand what you expect them to enter into each field as they are populating their content.
 -   Add more structure and flexibility to your content types and entries with components. By grouping fields together - say for an address entry - you can save time and avoid duplication of work.
 
 You can also develop with our Delivery and Management APIs to get content and data into your web pages or applications, and bring content from other systems into content types and entries.
 
-We will be extending content types and entries with new features in future releases. For more information, check out our [What's new](/help-and-docs/whats-new) page and the Contensis product [roadmap](https://portal.productboard.com/zengenti/2-contensis-open-roadmap/tabs/5-under-consideration).
+We will be extending content types and entries with new features in future releases. For more information, check out our [What's new](https://www.contensis.com/help-and-docs/whats-new) page and the Contensis product [roadmap](https://portal.productboard.com/zengenti/2-contensis-open-roadmap/tabs/5-under-consideration).
 
 ## On this page
 

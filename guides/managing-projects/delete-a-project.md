@@ -1,6 +1,6 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Managing projects](/help-and-docs/guides/managing-projects)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Managing projects](https://www.contensis.com/help-and-docs/guides/managing-projects)
 
 To delete a project, you'll need to be a System Administrator.
 

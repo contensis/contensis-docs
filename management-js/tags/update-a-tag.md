@@ -1,15 +1,15 @@
 ## We value your privacy
 
-We use cookies to improve your experience. [Privacy policy](/privacy-and-cookies).
+We use cookies to improve your experience. [Privacy policy](https://www.contensis.com/privacy-and-cookies).
 
 [Skip to main content](#main)
 
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Tags
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 02 July 2025
 
@@ -41,13 +41,13 @@ Description
 
 tag
 
-[`IUpdateTag`](/help-and-docs/apis/management-js/model/tag)
+[`IUpdateTag`](https://www.contensis.com/help-and-docs/apis/management-js/model/tag)
 
 A tag-like object containing the minimum required fields to update a tag (`id`, `groupId`, `value` and one `label`)
 
 ## Returns
 
-A Promise that will resolve with the updated [Tag](/help-and-docs/apis/management-js/model/tag)
+A Promise that will resolve with the updated [Tag](https://www.contensis.com/help-and-docs/apis/management-js/model/tag)
 
 ## Remarks
 

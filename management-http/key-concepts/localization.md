@@ -10,4 +10,4 @@ The language code is in lowercase and if the country code is included, then it i
 
 ## Supported languages
 
-Contensis currently supports a subset of [language codes](/help-and-docs/guides/authoring-and-managing-content/entries/multi-language-support) which can be set when creating a project, and enabled against a content type.
+Contensis currently supports a subset of [language codes](https://www.contensis.com/help-and-docs/guides/authoring-and-managing-content/entries/multi-language-support) which can be set when creating a project, and enabled against a content type.

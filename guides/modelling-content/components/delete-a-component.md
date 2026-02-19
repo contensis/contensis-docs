@@ -1,4 +1,4 @@
-A component can only be deleted once it is no longer in use. The option to delete a component will be disabled if it's currently in use, which is indicated by the [usage panel](/help-and-docs/user-guides/content-modelling/components/find-out-where-a-component-is-being-used).  
+A component can only be deleted once it is no longer in use. The option to delete a component will be disabled if it's currently in use, which is indicated by the [usage panel](https://www.contensis.com/help-and-docs/user-guides/content-modelling/components/find-out-where-a-component-is-being-used).  
 To delete a component:
 
 1.  Open the component you want to delete by selecting it in the *Component listing*.

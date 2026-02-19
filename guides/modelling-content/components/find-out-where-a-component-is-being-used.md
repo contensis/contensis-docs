@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Modelling content](/help-and-docs/guides/modelling-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Modelling content](https://www.contensis.com/help-and-docs/guides/modelling-content)
 4.  Components
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 28 May 2024
 
@@ -11,7 +11,7 @@ It's sometimes helpful to understand where a component is used in content types 
 
 ## Understand usage from the component listing
 
-The number of content types in which a component is in use is indicated in the [component listing](/help-and-docs/user-guides/content-modelling/components/view-and-filter-components).
+The number of content types in which a component is in use is indicated in the [component listing](https://www.contensis.com/help-and-docs/user-guides/content-modelling/components/view-and-filter-components).
 
 ## The usage panel in the component builder
 

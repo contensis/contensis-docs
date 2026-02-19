@@ -1,10 +1,10 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [HTTP Management API](/help-and-docs/apis/management-http)
-4.  [Security](/help-and-docs/apis/management-http/security)
-5.  [User](/help-and-docs/apis/management-http/security/users)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [HTTP Management API](https://www.contensis.com/help-and-docs/apis/management-http)
+4.  [Security](https://www.contensis.com/help-and-docs/apis/management-http/security)
+5.  [User](https://www.contensis.com/help-and-docs/apis/management-http/security/users)
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 17 June 2022
 
@@ -28,7 +28,7 @@ body
 
 object
 
-[user](/help-and-docs/apis/management-http/security/users)
+[user](https://www.contensis.com/help-and-docs/apis/management-http/security/users)
 
 The user to create
 
@@ -44,43 +44,43 @@ Model
 
 Created
 
-[User](/help-and-docs/apis/management-http/security/users)
+[User](https://www.contensis.com/help-and-docs/apis/management-http/security/users)
 
 **401**
 
 Unauthorized
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **403**
 
 Forbidden
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **404**
 
 User not found
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **409**
 
 Resource already exists
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **422**
 
 Validation error
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 **500**
 
 Internal server error
 
-[Error](/help-and-docs/apis/management-http/key-concepts/errors)
+[Error](https://www.contensis.com/help-and-docs/apis/management-http/key-concepts/errors)
 
 ## Examples
 
@@ -159,7 +159,7 @@ If a username is not provided then the email will be used as the username.
 
 Expiry must be a future date.  If an expiry date is not provided then no value will be set on the user and the user account will never expire.
 
-Passwords must comply with the [user password policy](/help-and-docs/apis/management-http/security/user-password-policy "user password policy").
+Passwords must comply with the [user password policy](https://www.contensis.com/help-and-docs/apis/management-http/security/user-password-policy "user password policy").
 
 **Permissions**
 

@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Delivery API](/help-and-docs/apis/delivery-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Delivery API](https://www.contensis.com/help-and-docs/apis/delivery-js)
 4.  Model
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 13 November 2024
 
@@ -20,7 +20,7 @@ Page last updated 13 November 2024
 -   [User-defined](#user-defined)
 -   [Default](#default-1)
 
-An asset is an extension of an [entry](/help-and-docs/apis/delivery-js/model/entry), with pre-defined fields and additional properties containing details about the file they represent. An asset is an entry with a dataFormat value equal to *asset*, which allows them to be identified and queried independently to entries.
+An asset is an extension of an [entry](https://www.contensis.com/help-and-docs/apis/delivery-js/model/entry), with pre-defined fields and additional properties containing details about the file they represent. An asset is an entry with a dataFormat value equal to *asset*, which allows them to be identified and queried independently to entries.
 
 ## Fields
 

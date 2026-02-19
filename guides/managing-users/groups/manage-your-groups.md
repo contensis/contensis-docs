@@ -1,6 +1,6 @@
 If you want to update the group name, description or manage the members or child groups of a group, then you can do so using the manage groups screen.
 
-With the [*Group listing*](/help-and-docs/user-guides/user-management/groups/view-a-list-of-groups) screen displayed. Select the group you want to edit by clicking on the group name in the listing. From this screen you can do the following.
+With the [*Group listing*](https://www.contensis.com/help-and-docs/user-guides/user-management/groups/view-a-list-of-groups) screen displayed. Select the group you want to edit by clicking on the group name in the listing. From this screen you can do the following.
 
 ## Update group name and description
 

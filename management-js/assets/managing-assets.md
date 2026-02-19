@@ -1,21 +1,21 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Assets
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 04 December 2020
 
 ## Create an asset
 
-Before an asset can be created, an [asset file needs to be uploaded](/help-and-docs/apis/management-js/assets/upload-asset-file). This will return a temporary *fileId* value which can be used as a file reference when creating the entry that represents the asset.
+Before an asset can be created, an [asset file needs to be uploaded](https://www.contensis.com/help-and-docs/apis/management-js/assets/upload-asset-file). This will return a temporary *fileId* value which can be used as a file reference when creating the entry that represents the asset.
 
-The [AssetFile](/help-and-docs/apis/management-js/model/assetfile) type needs to used in a field called "sysAssetFile" and the dataFormat within the `sys` object needs to be specified as "asset".
+The [AssetFile](https://www.contensis.com/help-and-docs/apis/management-js/model/assetfile) type needs to used in a field called "sysAssetFile" and the dataFormat within the `sys` object needs to be specified as "asset".
 
 ### Example request
 
-The JSON below is example of an entry that represents an asset. This can be used to create an asset in the same way as [creating an entry](/help-and-docs/apis/management-js/entries/create-an-entry) as assets are entries with additional properties.
+The JSON below is example of an entry that represents an asset. This can be used to create an asset in the same way as [creating an entry](https://www.contensis.com/help-and-docs/apis/management-js/entries/create-an-entry) as assets are entries with additional properties.
 
 JSON
 
@@ -37,11 +37,11 @@ JSON
 
 ## Updating an asset
 
-Asset fields (i.e. title, description) can be [updated just like an entry](/help-and-docs/apis/management-js/entries/update-an-entry), but updating the file that an asset represents requires a new file to be uploaded as an asset file beforehand and then a new file reference be set.
+Asset fields (i.e. title, description) can be [updated just like an entry](https://www.contensis.com/help-and-docs/apis/management-js/entries/update-an-entry), but updating the file that an asset represents requires a new file to be uploaded as an asset file beforehand and then a new file reference be set.
 
 ### Example request
 
-In the example below a new "fileId" has been specified in the "sysAssetFile" field. When the [entry is updated](/help-and-docs/apis/management-js/entries/update-an-entry) then the file that the entry represents is updated.
+In the example below a new "fileId" has been specified in the "sysAssetFile" field. When the [entry is updated](https://www.contensis.com/help-and-docs/apis/management-js/entries/update-an-entry) then the file that the entry represents is updated.
 
 JSON
 

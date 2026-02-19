@@ -1,9 +1,9 @@
-1.  [Help and docs](/help-and-docs)
-2.  [User guides](/help-and-docs/guides)
-3.  [Modelling content](/help-and-docs/guides/modelling-content)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [User guides](https://www.contensis.com/help-and-docs/guides)
+3.  [Modelling content](https://www.contensis.com/help-and-docs/guides/modelling-content)
 4.  Field editors
 
-[Log in to add to favourites](/account/login)
+[Log in to add to favourites](https://www.contensis.com/account/login)
 
 Page last updated 13 March 2025
 
@@ -13,7 +13,7 @@ Selection is made in an image gallery. Single or multiple selection of images is
 
 ## Appearance
 
-![An example of a single image field editor](/image-library/resources-images/user-guides-images/image-single.x4361b12d.png?q=80&f=webp)
+![An example of a single image field editor](https://www.contensis.com/image-library/resources-images/user-guides-images/image-single.x4361b12d.png?q=80&f=webp)
 
 An example of a single image field editor
 
@@ -25,23 +25,23 @@ Setting name
 
 Summary
 
-[Name](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Name](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 A text label to identify the field in an entry.
 
-[Field ID](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Field ID](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 A sanitised name to be used by the API.
 
-[Default value](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Default value](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 The default value property sets the default content for a field when an entry is created.
 
-[Multiple selection](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Multiple selection](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 Allows an author to select multiple images.
 
-[Read only](/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
+[Read only](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-settings)
 
 Prevents authors from editing the field in the entry editor.
 
@@ -57,15 +57,15 @@ Property name
 
 Summary
 
-[Placeholder text](/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
+[Placeholder text](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
 
 The placeholder property provides a short hint describing the expected value of a field.
 
-[Content guidelines](/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
+[Content guidelines](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
 
 Provides guidance to an author for the expected content the field should contain.
 
-[Field visibility](/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
+[Field visibility](https://www.contensis.com/help-and-docs/user-guides/content-modelling/field-editors/field-properties)
 
 Determines if the field should be displayed in the collapsed state when opening the entry editor.
 
@@ -83,7 +83,7 @@ The dimensions property allows you to set the expected image dimensions for the 
 
 ### Upload
 
-The upload property allows you to set if an author should be allowed to upload images to the field. Images will be uploaded to the folder set in the search box. The ability for a user to upload an image is determined by their [role permissions](/help-and-docs/user-guides/governance/roles-and-permissions/assign-and-remove-role-permissions).
+The upload property allows you to set if an author should be allowed to upload images to the field. Images will be uploaded to the folder set in the search box. The ability for a user to upload an image is determined by their [role permissions](https://www.contensis.com/help-and-docs/user-guides/governance/roles-and-permissions/assign-and-remove-role-permissions).
 
 ### Limit the display of images
 

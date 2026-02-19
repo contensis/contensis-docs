@@ -1,6 +1,6 @@
-1.  [Help and docs](/help-and-docs)
-2.  [APIs](/help-and-docs/apis)
-3.  [JS Management API](/help-and-docs/apis/management-js)
+1.  [Help and docs](https://www.contensis.com/help-and-docs)
+2.  [APIs](https://www.contensis.com/help-and-docs/apis)
+3.  [JS Management API](https://www.contensis.com/help-and-docs/apis/management-js)
 4.  Content types
 
 Workflow events can be invoked for a specific content type.
@@ -21,7 +21,7 @@ contentType
 
 object
 
-[ContentType](/help-and-docs/apis/management-js/model/content-type)
+[ContentType](https://www.contensis.com/help-and-docs/apis/management-js/model/content-type)
 
 The content type object.
 
@@ -39,7 +39,7 @@ The optional event data.
 
 ## Returns
 
-A Promise that will resolve with a [ContentType](/help-and-docs/apis/management-js/model/content-type) object.
+A Promise that will resolve with a [ContentType](https://www.contensis.com/help-and-docs/apis/management-js/model/content-type) object.
 
 ## Example
 

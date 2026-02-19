@@ -1,4 +1,4 @@
-Groups in Contensis are managed at an environment level. Groups can then be assigned to [roles](/help-and-docs/user-guides/governance/roles-and-permissions/roles-and-permissions-overview) to give users access to resources in Contensis. You'll need to be a system administrator to manage groups.
+Groups in Contensis are managed at an environment level. Groups can then be assigned to [roles](https://www.contensis.com/help-and-docs/user-guides/governance/roles-and-permissions/roles-and-permissions-overview) to give users access to resources in Contensis. You'll need to be a system administrator to manage groups.
 
 The groups listing can be found in the environment settings menu.
 
