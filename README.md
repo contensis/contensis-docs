@@ -1,6 +1,6 @@
 # Contensis Documentation
 
-Official Contensis CMS documentation in markdown format, optimized for AI-powered development tools.
+Official Contensis documentation in markdown format, optimized for AI-powered development tools.
 
 ## 📚 What's This?
 
