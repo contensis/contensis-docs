@@ -1,0 +1,5 @@
+Localization for an entry is identified by a language code which is formed using a [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) language code, or a combination of a [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) language code and a [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country code. Effectively, a Contensis language code can represent a language generically or specifically for a certain country.
+
+The language code is in lowercase and if the country code is included, then it is separated with a dash and uppercased.
+
+Contensis currently supports a subset of [language codes](/help-and-docs/user-guides/authoring/entries/multi-language-support "Multi language support") which can be set when creating a project, and enabled against a content type.
